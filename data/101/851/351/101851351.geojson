@@ -1,0 +1,90 @@
+{
+  "id": 101851351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.49026,42.48528,1.49026,42.48528",
+    "geom:latitude":42.48528,
+    "geom:longitude":1.49026,
+    "gn:population":7211,
+    "iso:country":"AD",
+    "lbl:latitude":42.48528,
+    "lbl:longitude":1.49026,
+    "mps:latitude":42.48528,
+    "mps:longitude":1.49026,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_colloquial":[
+        "La Macana",
+        "Massana"
+    ],
+    "name:und_x_preferred":[
+        "La Massana"
+    ],
+    "name:und_x_variant":[
+        "La Ma\u00e7ana"
+    ],
+    "qs:a0":"Andorra",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Andorra",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"La Massana",
+    "qs:loc_alt":"La Massana",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"030c3abe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3040132,
+        "gp:id":472580,
+        "qs:id":9,
+        "wd:id":"Q3820973"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"ba5347c5f493cda472123bc74197485c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":101851351,
+            "region_id":85667945
+        }
+    ],
+    "wof:id":101851351,
+    "wof:lastmodified":1544741749,
+    "wof:name":"La Massana",
+    "wof:parent_id":85667945,
+    "wof:placetype":"locality",
+    "wof:population":7211,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.49026,
+    42.48528,
+    1.49026,
+    42.48528
+],
+  "geometry": {"coordinates":[1.49026,42.48528],"type":"Point"}
+}

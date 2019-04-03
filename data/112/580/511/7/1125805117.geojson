@@ -1,0 +1,102 @@
+{
+  "id": 1125805117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48453,42.57205,1.48453,42.57205",
+    "geom:latitude":42.57205,
+    "geom:longitude":1.48453,
+    "gn:gn_country":"AD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1419,
+    "gn:population":1419,
+    "iso:country":"AD",
+    "lbl:latitude":42.57205,
+    "lbl:longitude":1.48453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u06cc\u0646\u0633\u0627\u0644"
+    ],
+    "name:lit_x_preferred":[
+        "Arinsalis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0438\u043d\u0441\u0430\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0440\u0438\u043d\u0441\u0430\u043b\u044c"
+    ],
+    "qs_pg:aaroncc":"AD",
+    "qs_pg:gn_country":"AD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3041519,
+    "qs_pg:gn_pop":1419,
+    "qs_pg:name":"Arinsal",
+    "qs_pg:name_adm0":"Andorra",
+    "qs_pg:name_adm1":"La Massana",
+    "qs_pg:photos":1054,
+    "qs_pg:photos_1k":214,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1054,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1082807,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424744,
+    "qs_pg:woe_id":472557,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424744,
+    "woe:name_adm0":"Andorra",
+    "woe:name_adm1":"La Massana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041519,
+        "gp:id":472557,
+        "qs_pg:id":1082807
+    },
+    "wof:country":"AD",
+    "wof:created":1497291430,
+    "wof:geomhash":"28e9708ada897eb31a4aef97247fa266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1125805117,
+            "region_id":85667925
+        }
+    ],
+    "wof:id":1125805117,
+    "wof:lastmodified":1509393254,
+    "wof:name":"Arinsal",
+    "wof:parent_id":85667925,
+    "wof:placetype":"locality",
+    "wof:population":1419,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48453,
+    42.57205,
+    1.48453,
+    42.57205
+],
+  "geometry": {"coordinates":[1.48453,42.57205],"type":"Point"}
+}

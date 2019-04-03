@@ -1,0 +1,157 @@
+{
+  "id": 101851343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.491716,42.466503,1.491716,42.466503",
+    "geom:latitude":42.466503,
+    "geom:longitude":1.491716,
+    "gn:population":8022,
+    "iso:country":"AD",
+    "lbl:latitude":42.466503,
+    "lbl:longitude":1.491716,
+    "mps:latitude":42.466503,
+    "mps:longitude":1.491716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:cat_x_preferred":[
+        "San Juli\u00e0"
+    ],
+    "name:cat_x_variant":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:deu_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:eng_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:eus_x_preferred":[
+        "Sant Julia de Loria"
+    ],
+    "name:fra_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:ita_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30b8\u30e5\u30ea\u30a2\u30fb\u30c7\u30fb\u30ed\u30ea\u30a2\u6559\u533a"
+    ],
+    "name:nau_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:nld_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:pol_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:por_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442-\u0416\u0443\u043b\u0438\u044f-\u0434\u0435-\u041b\u043e\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:sqi_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:und_x_colloquial":[
+        "S Julia",
+        "S. Julia",
+        "San Julia",
+        "Sant Julia",
+        "Sant Julia de Loria",
+        "Santa Julia de Loria",
+        "Sta Julia de Loria",
+        "Sta. Julia de Loria"
+    ],
+    "name:und_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:und_x_variant":[
+        "S Juli\u00e1",
+        "S. Juli\u00e1",
+        "San Juli\u00e1",
+        "Sant Juli\u00e1",
+        "Santa Juli\u00e1 de Loria",
+        "Sta Juli\u00e1 de Loria",
+        "Sta. Juli\u00e1 de Loria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u80e1\u5229\u5a05\uff0d\u5fb7\u6d1b\u91cc\u4e9a"
+    ],
+    "qs:a0":"Andorra",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Andorra",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sant Juli\u00e0 de L\u00f2ria",
+    "qs:loc_alt":"Sant Julia de Loria",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"030c3e4c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3039163,
+        "gp:id":472598,
+        "qs:id":489804,
+        "qs_pg:id":489804
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"5b317d97c4bc49a1df54deace3d0c854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":101851343,
+            "region_id":85667945
+        }
+    ],
+    "wof:id":101851343,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544741745,
+    "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
+    "wof:parent_id":85667945,
+    "wof:placetype":"locality",
+    "wof:population":8022,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.491716,
+    42.466503,
+    1.491716,
+    42.466503
+],
+  "geometry": {"coordinates":[1.491716,42.466503],"type":"Point"}
+}

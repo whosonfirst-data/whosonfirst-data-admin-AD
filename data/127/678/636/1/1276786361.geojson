@@ -1,0 +1,65 @@
+{
+  "id": 1276786361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55987,42.51119,1.55987,42.51119",
+    "geom:latitude":42.51119,
+    "geom:longitude":1.55987,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sant Miquel d'Engolasters",
+    "gn:country_code":"AD",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8260095,
+    "gn:latitude":42.51119,
+    "gn:longitude":1.55987,
+    "gn:modification_date":"2012-04-13",
+    "gn:name":"Sant Miquel d'Engolasters",
+    "gn:population":0,
+    "gn:timezone":"Europe/Andorra",
+    "iso:country":"AD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8260095
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"170e314c1008bacadc5fbeadba4248d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1276786361,
+            "region_id":85667941
+        }
+    ],
+    "wof:id":1276786361,
+    "wof:lastmodified":1536669024,
+    "wof:name":"Sant Miquel d'Engolasters",
+    "wof:parent_id":85667941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55987,
+    42.51119,
+    1.55987,
+    42.51119
+],
+  "geometry": {"coordinates":[1.55987,42.51119],"type":"Point"}
+}

@@ -1,0 +1,399 @@
+{
+  "id": 85667945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00842,
+    "geom:area_square_m":76801496.134797,
+    "geom:bbox":"1.40759322065,42.4286774707,1.57494232972,42.5180350337",
+    "geom:latitude":42.467892,
+    "geom:longitude":1.488736,
+    "gn:population":9448,
+    "iso:country":"AD",
+    "label:eng_x_preferred_longname":[
+        "Sant Juli\u00e0 de L\u00f2ria Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":42.466032,
+    "lbl:longitude":1.473523,
+    "mps:latitude":42.466032,
+    "mps:longitude":1.473523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:alb_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u062c\u0648\u0644\u064a\u0627 \u062f\u064a \u0644\u0648\u0631\u064a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u0569 \u053a\u0578\u0582\u056c\u056b\u0561 \u0564\u0565 \u053c\u0578\u0580\u056b\u0561"
+    ],
+    "name:baq_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d\u0442-\u0416\u0443\u043b\u0456\u044f-\u0434\u044d-\u041b\u0451\u0440\u044b\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u099f \u099c\u09c1\u09b2\u09bf\u09af\u09bc\u09be \u09a1\u09c7 \u09b2\u09cb\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u0414\u0436\u0443\u043b\u0438\u044f \u0434\u0435 \u041b\u043e\u0440\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:cat_x_variant":[
+        "Parroquia de Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:ceb_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:ces_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u80e1\u5229\u5a05-\u5fb7\u6d1b\u91cc\u4e9a"
+    ],
+    "name:cze_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:dan_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:deu_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:dut_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:eng_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:eng_x_variant":[
+        "Sant Juli\u00e0 de Loria"
+    ],
+    "name:epo_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u062d\u0648\u0644\u06cc\u0627 \u062f\u0647 \u0644\u0648\u0631\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:fra_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:fre_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2-\u10df\u10e3\u10da\u10d8\u10d0-\u10d3\u10d4-\u10da\u10dd\u10e0\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:glg_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4 \u0396\u03bf\u03c5\u03bb\u03b9\u03ac \u03bd\u03c4\u03b5 \u039b\u03cc\u03c1\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0a82\u0aa4 \u0a9c\u0ac1\u0ab2\u0abf\u0aaf\u0abe \u0aa6\u0ac7 \u0ab2\u0acb\u0ab0\u0ac0\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d2\u05d5\u05dc\u05d9\u05d4 \u05d3\u05d4 \u05dc\u05d5\u05e8\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0902\u0924 \u091c\u0942\u0932\u093f\u092f\u093e \u0921\u0940 \u0932\u094b\u0930\u093f\u092f\u093e \u092a\u0932\u094d\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria k\u00f6z\u00f6ss\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u0569 \u053a\u0578\u0582\u056c\u056b\u0561 \u0564\u0565 \u053c\u0578\u0580\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:ita_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30b8\u30e5\u30ea\u30a2\u30fb\u30c7\u30fb\u30ed\u30ea\u30a2\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ccd \u0c9c\u0cc2\u0cb2\u0cbf\u0caf\u0cbe \u0ca1\u0cc6 \u0cb2\u0cca\u0cb0\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2-\u10df\u10e3\u10da\u10d8\u10d0-\u10d3\u10d4-\u10da\u10dd\u10e0\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc904\ub9ac\uc544\ub370\ub85c\ub9ac\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Sant\u017eulija de Lorija"
+    ],
+    "name:lit_x_preferred":[
+        "Sant Chulija de Lorija"
+    ],
+    "name:lmo_x_preferred":[
+        "Sant Julia de Loria"
+    ],
+    "name:ltz_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043d\u0442 \u0416\u0443\u043b\u0438\u0458\u0430 \u0434\u0435 \u041b\u043e\u0440\u0438\u0458\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0902\u0924 \u091c\u0941\u0932\u093f\u092f\u093e \u0926\u0947 \u0932\u0949\u0930\u0940\u0906"
+    ],
+    "name:may_x_preferred":[
+        "Sant Julia de Loria"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0442 \u0416\u0443\u043b\u0438\u0458\u0430 \u0434\u0435 \u041b\u043e\u0440\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Sant Julia de Loria"
+    ],
+    "name:nau_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:nob_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:oci_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u062a \u062d\u0648\u0644\u06cc\u0627 \u062f\u0647 \u0644\u0648\u0631\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:por_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:rum_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u0443\u043b\u0438\u0430-\u0434\u0435-\u041b\u043e\u0440\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dca \u0da2\u0dd4\u0dbd\u0dd2\u0dba \u0da9\u0dd2 \u0dbd\u0ddd\u0dbb\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slo_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:spa_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:spa_x_variant":[
+        "San Juli\u00e1n de Loria"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0416\u0443\u043b\u0438\u0458\u0430 \u0434\u0435 \u041b\u043e\u0440\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0bbe  \u0b9f\u0bbf  \u0bb2\u0bcb\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c02\u0c24\u0c4d \u0c1c\u0c42\u0c32\u0c3f\u0c2f\u0c3e \u0c21\u0c3f \u0c32\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19 \u0e08\u0e39\u0e40\u0e25\u0e35\u0e22 \u0e40\u0e14\u0e2d \u0e42\u0e25\u0e40\u0e27\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442-\u0416\u0443\u043b\u0456\u044f-\u0434\u0435-\u041b\u043e\u0440\u0456\u044f"
+    ],
+    "name:und_x_colloquial":[
+        "Sant Julia de Loria"
+    ],
+    "name:und_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u062c\u0648\u0644\u06cc\u0627 \u062f\u0631 \u0644\u0648\u0631\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Parochia de Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:vie_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:vol_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:war_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u80e1\u5229\u5a05-\u5fb7\u6d1b\u91cc\u4e9a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"AND",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"AND-4882",
+    "ne:adm1_code":"AND-4882",
+    "ne:admin":"Andorra",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"AD.JL",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4882",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AN06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Andorra",
+    "ne:gn_a1_code":"AD.06",
+    "ne:gn_id":"3039162",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Parroquia de Sant Julia de Loria",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AN06",
+    "ne:gns_id":"-1396865",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sant Julia de Loria",
+    "ne:gns_region":"",
+    "ne:gu_a3":"AND",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AD-06",
+    "ne:iso_a2":"AD",
+    "ne:labelrank":"20",
+    "ne:latitude":"42.45110000000",
+    "ne:longitude":"1.47975000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Sant Juli\u00e0 de L\u00f2ria",
+    "ne:name_alt":"",
+    "ne:name_len":19,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"AND",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria",
+    "ne:woe_id":20070564,
+    "ne:woe_label":"Sant Juli\u00c3\u00a0 de L\u00c3\u00b2ria, AD, Andorra",
+    "ne:woe_name":"Sant Juli\u00c3\u00a0 de L\u00c3\u00b2ria",
+    "qs:a0":"Andorra",
+    "qs:a0_lc":"AD",
+    "qs:a1":"Sant Juli\u00e0 de L\u00f2ria",
+    "qs:a1_lc":"AND-4882",
+    "qs:adm0":"Andorra",
+    "qs:adm0_a3":"AND",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-12-31",
+    "statoids:area_km":"60",
+    "statoids:area_mi":"23",
+    "statoids:as_of_date":"2012-12-31",
+    "statoids:capital":"Sant Juli\u00e0 de L\u00f2ria",
+    "statoids:country":"AD",
+    "statoids:gec":"AN06",
+    "statoids:hasc":"AD.JL",
+    "statoids:iso":"06",
+    "statoids:name":"Sant Juli\u00e0 de L\u00f2ria",
+    "statoids:population":"9063",
+    "statoids:timezone":"+1~",
+    "statoids:type":"parish",
+    "unlc:subdivision":"AD-06",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191581,
+        85632343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AN06",
+        "gn:id":3039162,
+        "gp:id":20070564,
+        "hasc:id":"AD.JL",
+        "iso:id":"AD-06",
+        "qs:id":1102992,
+        "unlc:id":"AD-06",
+        "wd:id":"Q24282",
+        "wk:page":"Sant Juli\u00e0 de L\u00f2ria"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"99019ac9fa792443ccf664986e031de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "region_id":85667945
+        }
+    ],
+    "wof:id":85667945,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "cat"
+    ],
+    "wof:lang_x_spoken":[
+        "cat"
+    ],
+    "wof:lastmodified":1553550291,
+    "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
+    "wof:parent_id":85632343,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":9063,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:shortcode":"JL",
+    "wof:subdivision":"AD-06",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40759322065065,
+    42.4286774706888,
+    1.57494232972476,
+    42.5180350336899
+],
+  "geometry": {"coordinates":[[[1.4990893696787,42.48903243100193],[1.51619346865368,42.48605780462401],[1.52957928465634,42.482339522551],[1.54817069682025,42.4845704923344],[1.56453113920077,42.48605780462401],[1.57494232972476,42.4845704923344],[1.56824942127383,42.47564661410001],[1.56973673446277,42.46523542357596],[1.57266497830614,42.45307485382148],[1.54443241382489,42.45035573383012],[1.53885135880324,42.44565317795184],[1.53451053903018,42.43991709419856],[1.52820601449599,42.43423268638941],[1.51663049330267,42.42950429298878],[1.50846561679481,42.4286774706888],[1.44790083835306,42.43464609843875],[1.43642866994719,42.44095062297293],[1.43642866994719,42.45348215857479],[1.40759322065065,42.48676178043189],[1.42454309039135,42.49247202666277],[1.43022749820051,42.4935572313812],[1.44996789500237,42.50407338447917],[1.45967557646674,42.50985481204998],[1.47306139246933,42.51506040731198],[1.48719086596571,42.5180350336899],[1.4886781791547,42.50911115545551],[1.48942183484985,42.50316190359905],[1.49314011782224,42.49349436966946],[1.4990893696787,42.48903243100193]]],"type":"Polygon"}
+}

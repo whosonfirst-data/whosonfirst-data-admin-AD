@@ -1,0 +1,135 @@
+{
+  "id": 101851341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.651608,42.580522,1.651608,42.580522",
+    "geom:latitude":42.580522,
+    "geom:longitude":1.651608,
+    "gn:population":1052,
+    "iso:country":"AD",
+    "lbl:latitude":42.580522,
+    "lbl:longitude":1.651608,
+    "mps:latitude":42.580522,
+    "mps:longitude":1.651608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "El Tarter"
+    ],
+    "name:ceb_x_preferred":[
+        "El Tarter"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u062a\u0627\u0631\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "El Tarter"
+    ],
+    "name:ita_x_preferred":[
+        "El Tarter"
+    ],
+    "name:lmo_x_preferred":[
+        "El Tarter"
+    ],
+    "name:nld_x_preferred":[
+        "El Tarter"
+    ],
+    "name:nor_x_preferred":[
+        "El Tarter"
+    ],
+    "name:oci_x_preferred":[
+        "El Tarter"
+    ],
+    "name:pol_x_preferred":[
+        "El Tarter"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0430\u0440\u0442\u0435\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u043b \u0422\u0430\u0440\u0442\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "El Tarter"
+    ],
+    "name:sqi_x_preferred":[
+        "El Tarter"
+    ],
+    "name:swe_x_preferred":[
+        "El Tarter"
+    ],
+    "name:und_x_preferred":[
+        "El Tarter"
+    ],
+    "qs:a0":"Andorra",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Andorra",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"el Tarter",
+    "qs:loc_alt":"el Tarter",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"030c3fb4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3039154,
+        "gp:id":472564,
+        "qs:id":1082809,
+        "qs_pg:id":1082809,
+        "wd:id":"Q24413",
+        "wk:page":"El Tarter"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"e655f652c6fd8a9e43dbc8bb2682a2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":101851341,
+            "region_id":85667933
+        }
+    ],
+    "wof:id":101851341,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544741744,
+    "wof:name":"el Tarter",
+    "wof:parent_id":85667933,
+    "wof:placetype":"locality",
+    "wof:population":1052,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.651608,
+    42.580522,
+    1.651608,
+    42.580522
+],
+  "geometry": {"coordinates":[1.651608,42.580522],"type":"Point"}
+}

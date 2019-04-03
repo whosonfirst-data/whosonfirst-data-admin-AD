@@ -1,0 +1,402 @@
+{
+  "id": 85667925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007947,
+    "geom:area_square_m":72382459.826689,
+    "geom:bbox":"1.40645633909,42.5040733845,1.55635091846,42.6020519017",
+    "geom:latitude":42.554071,
+    "geom:longitude":1.474055,
+    "gn:population":8953,
+    "iso:country":"AD",
+    "label:eng_x_preferred_longname":[
+        "La Massana Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":42.553947,
+    "lbl:longitude":1.462699,
+    "mps:latitude":42.553947,
+    "mps:longitude":1.462699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:alb_x_preferred":[
+        "La Massana"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0645\u0633\u0627\u0646\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "La Massana"
+    ],
+    "name:arm_x_preferred":[
+        "\u053c\u0561 \u0544\u0561\u057d\u057d\u0561\u0576\u0561"
+    ],
+    "name:baq_x_preferred":[
+        "La Massana"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u044f-\u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09ae\u09be\u09b8\u09b8\u09be\u09a8\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "La Massana"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "La Massana"
+    ],
+    "name:cat_x_variant":[
+        "Parr\u00f2quia de la Massana"
+    ],
+    "name:ceb_x_preferred":[
+        "La Massana"
+    ],
+    "name:ces_x_preferred":[
+        "La Massana"
+    ],
+    "name:chi_x_preferred":[
+        "\u9a6c\u8428\u7eb3"
+    ],
+    "name:cze_x_preferred":[
+        "La Massana"
+    ],
+    "name:dan_x_preferred":[
+        "La Massana"
+    ],
+    "name:deu_x_preferred":[
+        "La Massana"
+    ],
+    "name:dut_x_preferred":[
+        "La Massana"
+    ],
+    "name:eng_x_preferred":[
+        "Massana"
+    ],
+    "name:epo_x_preferred":[
+        "La Massana"
+    ],
+    "name:eus_x_preferred":[
+        "La Massana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0645\u0627\u0633\u0627\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "La Massana"
+    ],
+    "name:fra_x_preferred":[
+        "La Massana"
+    ],
+    "name:fre_x_preferred":[
+        "La Massana"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10db\u10d0\u10e1\u10d0\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Massana"
+    ],
+    "name:glg_x_preferred":[
+        "La Massana"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u039c\u03b1\u03c3\u03ac\u03bd\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0aae\u0abe\u0ab8\u0abe\u0aa8\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092e\u0938\u093e\u0928\u093e \u092a\u0932\u094d\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "La Massana k\u00f6z\u00f6ss\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u0544\u0561\u057d\u057d\u0561\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "La Massana"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di La Massana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30de\u30b5\u30ca\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0cae\u0cb8\u0cbe\u0ca8\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10db\u10d0\u10e1\u10d0\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9c8\uc0ac\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Lamasana"
+    ],
+    "name:lit_x_preferred":[
+        "La Masana"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u092e\u0938\u0928\u093e\u0928\u093e"
+    ],
+    "name:may_x_preferred":[
+        "La Massana"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:nau_x_preferred":[
+        "La Massana"
+    ],
+    "name:nld_x_preferred":[
+        "La Massana"
+    ],
+    "name:nob_x_preferred":[
+        "La Massana"
+    ],
+    "name:nor_x_preferred":[
+        "La Massana"
+    ],
+    "name:oci_x_preferred":[
+        "La Massana"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0645\u0627\u0633\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "La Massana"
+    ],
+    "name:por_x_preferred":[
+        "La Massana"
+    ],
+    "name:ron_x_preferred":[
+        "La Massana"
+    ],
+    "name:rum_x_preferred":[
+        "La Massana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0db8\u0dc3\u0dca\u0dc3\u0db1\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "La Massana"
+    ],
+    "name:slo_x_preferred":[
+        "La Massana"
+    ],
+    "name:spa_x_preferred":[
+        "La Massana"
+    ],
+    "name:sqi_x_preferred":[
+        "La Massana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Massana"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe \u0bae\u0bb8\u0bcd\u0bb8\u0ba9\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e \u0c2e\u0c38\u0c3e\u0c28\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "La Massana"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32 \u0e21\u0e31\u0e2a\u0e0b\u0e32\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "La Massana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041c\u0430\u0441\u0441\u0430\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "La Massana"
+    ],
+    "name:unk_x_variant":[
+        "Parr\u00f2quia de La Massana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0645\u0627\u0633\u0627\u0646\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Parochia de La Massana"
+    ],
+    "name:vie_x_preferred":[
+        "La Massana"
+    ],
+    "name:vol_x_preferred":[
+        "La Massana"
+    ],
+    "name:war_x_preferred":[
+        "La Massana"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8428\u7eb3"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"AND",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"AND-4877",
+    "ne:adm1_code":"AND-4877",
+    "ne:admin":"Andorra",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"AD.MA",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4877",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AN04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Andorra",
+    "ne:gn_a1_code":"AD.04",
+    "ne:gn_id":"3040131",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Parroquia de la Massana",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AN04",
+    "ne:gns_id":"-1395883",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"La Massana, Parroquia de",
+    "ne:gns_region":"",
+    "ne:gu_a3":"AND",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AD-04",
+    "ne:iso_a2":"AD",
+    "ne:labelrank":"20",
+    "ne:latitude":"42.55000000000",
+    "ne:longitude":"1.47083000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"La Massana",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"AND",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/La_Massana",
+    "ne:woe_id":20070555,
+    "ne:woe_label":"Massana, AD, Andorra",
+    "ne:woe_name":"Massana",
+    "qs:a0":"Andorra",
+    "qs:a0_lc":"AD",
+    "qs:a1":"La Massana",
+    "qs:a1_lc":"AND-4877",
+    "qs:adm0":"Andorra",
+    "qs:adm0_a3":"AND",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-12-31",
+    "statoids:area_km":"61",
+    "statoids:area_mi":"24",
+    "statoids:as_of_date":"2012-12-31",
+    "statoids:capital":"La Massana",
+    "statoids:country":"AD",
+    "statoids:gec":"AN04",
+    "statoids:hasc":"AD.MA",
+    "statoids:iso":"04",
+    "statoids:name":"La Massana",
+    "statoids:population":"9902",
+    "statoids:timezone":"+1~",
+    "statoids:type":"parish",
+    "unlc:subdivision":"AD-04",
+    "wd:wordcount":993,
+    "wof:belongsto":[
+        102191581,
+        85632343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AN04",
+        "gn:id":3040131,
+        "gp:id":20070555,
+        "hasc:id":"AD.MA",
+        "iso:id":"AD-04",
+        "qs:id":1102991,
+        "unlc:id":"AD-04",
+        "wd:id":"Q24276",
+        "wk:page":"La Massana"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"d7e2f23e6a3b7c18bb53cc00e1e87c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "region_id":85667925
+        }
+    ],
+    "wof:id":85667925,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "cat"
+    ],
+    "wof:lang_x_spoken":[
+        "cat"
+    ],
+    "wof:lastmodified":1553550291,
+    "wof:name":"La Massana",
+    "wof:parent_id":85632343,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":9902,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:shortcode":"MA",
+    "wof:subdivision":"AD-04",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40645633908883,
+    42.50407338447917,
+    1.55635091846017,
+    42.60205190167397
+],
+  "geometry": {"coordinates":[[[1.5556072618657,42.56265442216392],[1.55635091846017,42.55224323163986],[1.55635091846017,42.53811375814348],[1.54370875815272,42.53811375814348],[1.53181025443973,42.53439547607042],[1.51768078094335,42.53216450628696],[1.50280765175177,42.52472794214088],[1.48719086596571,42.5180350336899],[1.47306139246933,42.51506040731198],[1.45967557646674,42.50985481204998],[1.44996789500237,42.50407338447917],[1.44655725121623,42.51988637445669],[1.42898726385118,42.53146189385137],[1.40645633908883,42.52923980847044],[1.40976363098685,42.54060862229016],[1.42630009047684,42.56179595991568],[1.42640344236503,42.56564585417289],[1.41803186028216,42.56983164521432],[1.41927209553086,42.57926259449317],[1.42485314965319,42.58936533644118],[1.4292973222137,42.59538564103457],[1.45141483582608,42.60205190167397],[1.45967557646674,42.59686262011388],[1.47083042358525,42.59686262011388],[1.48124161410925,42.59537530692495],[1.48644720937125,42.5901697116629],[1.49239646122777,42.57752755135544],[1.50132033856283,42.57083464290452],[1.51544981205922,42.56786001742591],[1.5325539110342,42.56488539104799],[1.5459397270368,42.56339807875838],[1.5556072618657,42.56265442216392]]],"type":"Polygon"}
+}

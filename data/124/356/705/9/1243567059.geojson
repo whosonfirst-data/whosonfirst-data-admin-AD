@@ -1,0 +1,66 @@
+{
+  "id": 1243567059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66267,42.58285,1.66267,42.58285",
+    "geom:latitude":42.58285,
+    "geom:longitude":1.66267,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Incles",
+    "gn:country_code":"AD",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8260082,
+    "gn:latitude":42.58285,
+    "gn:longitude":1.66267,
+    "gn:modification_date":"2012-04-13",
+    "gn:name":"Incles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Andorra",
+    "iso:country":"AD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8260082,
+        "wk:page":"Incles"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"f1d61416664bfbf2738d9a6071f78796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1243567059,
+            "region_id":85667933
+        }
+    ],
+    "wof:id":1243567059,
+    "wof:lastmodified":1537485204,
+    "wof:name":"Incles",
+    "wof:parent_id":85667933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66267,
+    42.58285,
+    1.66267,
+    42.58285
+],
+  "geometry": {"coordinates":[1.66267,42.58285],"type":"Point"}
+}

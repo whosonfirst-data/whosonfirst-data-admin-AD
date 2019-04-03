@@ -1,0 +1,632 @@
+{
+  "id": 101877135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000908,
+    "geom:area_square_m":8275899.143778,
+    "geom:bbox":"1.50074076761,42.4886956654,1.5347485636,42.5211409415",
+    "geom:latitude":42.505319,
+    "geom:longitude":1.51839,
+    "gn:population":20430,
+    "iso:country":"AD",
+    "lbl:latitude":42.504294,
+    "lbl:longitude":1.518714,
+    "mps:latitude":42.504294,
+    "mps:longitude":1.518714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:alb_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u1295\u12f6\u122b \u120b \u126c\u120b"
+    ],
+    "name:ang_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0648\u0631\u0627 \u0644\u0627 \u0641\u064a\u0644\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Andorra la Viella"
+    ],
+    "name:arg_x_variant":[
+        "Andorra la Biella"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0576\u0564\u0578\u0580\u0580\u0561 \u056c\u0561 \u054e\u0565\u056c\u0575\u0561"
+    ],
+    "name:ast_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ava_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u0438\u044f"
+    ],
+    "name:aze_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:baq_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u043d\u0434\u043e\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043d\u0434\u043e\u0440\u0430-\u043b\u044f-\u0412\u044d\u043b\u044c\u043b\u044f",
+        "\u0410\u043d\u0434\u043e\u0440\u0430 \u043b\u044f \u0412\u044d\u043b\u044c\u044f",
+        "\u0410\u043d\u0434\u043e\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09a6\u09b0\u09be \u09b2\u09be \u09ad\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bis_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f53\u0f0b\u0f4c\u0f7c\u0f62\u0f0b\u0f62\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:bre_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0430 \u043b\u0430 \u0412\u0435\u043b\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:cbk_zam_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ceb_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ces_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u9053\u5c14\u57ce"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u044c\u0435\u0445\u0430"
+    ],
+    "name:cor_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:cos_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:cym_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:cze_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:dan_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:deu_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:diq_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:dut_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b4\u03cc\u03c1\u03c1\u03b1 \u03bb\u03b1 \u0392\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03b4\u03cc\u03c1\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:epo_x_preferred":[
+        "Andoro Malnova"
+    ],
+    "name:est_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:eus_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062f\u0648\u0631\u0627 \u0644\u0627\u0648\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:fra_x_preferred":[
+        "Andorre-la-Vieille"
+    ],
+    "name:fra_x_variant":[
+        "Andorre la Vieille"
+    ],
+    "name:fre_x_preferred":[
+        "Andorre-la-Vieille"
+    ],
+    "name:frp_x_preferred":[
+        "Andorra-la-Vielye"
+    ],
+    "name:frr_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:fry_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10dd\u10e0\u10d0-\u10da\u10d0-\u10d5\u10d4\u10da\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:gla_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:gle_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:glg_x_preferred":[
+        "Andorra a Vella"
+    ],
+    "name:glv_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03b4\u03cc\u03c1\u03c1\u03b1 \u03bb\u03b1 \u0392\u03ad\u03b3\u03b9\u03b1"
+    ],
+    "name:gsw_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0acd\u0aa1\u0acb\u0ab0\u0abe \u0ab2\u0abe \u0ab5\u0ac7\u0ab2\u0acd\u0ab2\u0abe"
+    ],
+    "name:hat_x_preferred":[
+        "And\u00f2-la-Vy\u00e8y"
+    ],
+    "name:hbs_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d3\u05d5\u05e8\u05d4 \u05dc\u05d4 \u05d5\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e0\u05d3\u05d5\u05e8\u05d4 \u05dc\u05d4 \u05d5\u05d5\u05dc\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0923\u094d\u0921\u094b\u0930\u093e \u0932\u093e \u0935\u0947\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:hun_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0564\u0578\u0580\u0561 \u056c\u0561 \u054e\u0565\u056c\u0575\u0561"
+    ],
+    "name:ice_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ido_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ile_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ilo_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ind_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:isl_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ita_x_preferred":[
+        "Andorra la Vieja",
+        "Andorra la Vella"
+    ],
+    "name:jav_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30e9\u30fb\u30e9\u30fb\u30d9\u30ea\u30e3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30f3\u30c9\u30e9\u30fb\u30e9\u30fb\u30f4\u30a7\u30ea\u30e3"
+    ],
+    "name:kab_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:kal_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c82\u0ca1\u0ccb\u0cb0\u0cbe \u0cb2\u0cbe \u0cb5\u0cc6\u0cb2\u0ccd\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10dd\u10e0\u10d0-\u10da\u10d0-\u10d5\u10d4\u10da\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u041b\u0430-\u0412\u0438\u043b\u044c\u044f"
+    ],
+    "name:kom_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ub3c4\ub77c\ub77c\ubca0\uc57c"
+    ],
+    "name:kur_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:lad_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:lat_x_preferred":[
+        "Andorra Vetus"
+    ],
+    "name:lav_x_preferred":[
+        "Andora la Velja"
+    ],
+    "name:lij_x_preferred":[
+        "A Vella"
+    ],
+    "name:lim_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:lin_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:lit_x_preferred":[
+        "Andora"
+    ],
+    "name:lmo_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0634\u0623\u0631 \u0622\u0646\u062f\u0648\u0631\u0627"
+    ],
+    "name:ltz_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0430 \u043b\u0430 \u0412\u0435\u043b\u0458\u0430"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d7b\u0d21\u0d4b\u0d31 \u0d32 \u0d35\u0d46\u0d32\u0d4d\u0d32"
+    ],
+    "name:mao_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:mar_x_preferred":[
+        "\u0906\u0902\u0926\u094b\u0930\u093e \u0932\u093e \u0935\u094d\u0939\u0947\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0430 \u043b\u0430 \u0412\u0435\u043b\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:mri_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:msa_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f \u043e\u0448"
+    ],
+    "name:nah_x_preferred":[
+        "Andorra in Huehc\u0101uh"
+    ],
+    "name:nan_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:nau_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:nld_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:nno_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:nob_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:nor_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:nov_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:oci_x_preferred":[
+        "And\u00f2rra la Vi\u00e8lha"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u00e6-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a70\u0a21\u0a4b\u0a30\u0a3e \u0a32\u0a3e \u0a35\u0a47\u0a32\u0a3e"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0646\u062f\u0648\u0631\u0627 \u0644\u0627\u0648\u0644\u0627"
+    ],
+    "name:pms_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0646\u0688\u0648\u0631\u0627 \u0644\u0627 \u0648\u06cc\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Andora"
+    ],
+    "name:pol_x_variant":[
+        "Andorra la Vella"
+    ],
+    "name:por_x_preferred":[
+        "Andorra-a-Velha"
+    ],
+    "name:que_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:roh_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:ron_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:rum_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:rup_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430 \u043b\u0430 \u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:sgs_x_preferred":[
+        "Anduora"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d87\u0db1\u0dca\u0da9\u0ddd\u0dbb\u0dcf \u0dbd\u0dcf \u0dc0\u0dd9\u0dbd\u0dca\u0dbd\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Andorra"
+    ],
+    "name:slo_x_preferred":[
+        "Andorra"
+    ],
+    "name:slv_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:sme_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:sna_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:spa_x_preferred":[
+        "Andorra la Vieja"
+    ],
+    "name:spa_x_variant":[
+        "Andorra la Vella"
+    ],
+    "name:sqi_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:srd_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0430 \u043b\u0430 \u0412\u0435\u0459\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:swe_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba8\u0bcd\u0ba4\u0bcb\u0bb0\u0bbe \u0bb2\u0bbe \u0bb5\u0bc7\u0bb2\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:tat_x_variant":[
+        "Andorra la Vella"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c02\u0c21\u0c4b\u0c30\u0c3e \u0c32\u0c3e \u0c35\u0c46\u0c32\u0c3e"
+    ],
+    "name:tet_x_preferred":[
+        "Andorra Tuan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044f"
+    ],
+    "name:tgl_x_preferred":[
+        "Lungsod ng Andorra la Vella"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e19\u0e14\u0e2d\u0e23\u0e4c\u0e23\u0e32\u0e25\u0e32\u0e40\u0e1a\u0e22\u0e32"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f68\u0f53\u0f0b\u0f4c\u0f7c\u0f62\u0f0b\u0f62\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
+    "name:tpi_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:tur_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u0646\u062f\u0648\u0631\u0631\u0627 \u0643\u06d5\u0646\u062a\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:und_x_variant":[
+        "Andorra",
+        "Andorra-Vieille",
+        "Andorra-a-Velha",
+        "Andorre",
+        "Andorre-Vieille",
+        "La Vieja"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0688\u0648\u0631\u0627 \u0644\u0627 \u0648\u06cc\u0644\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Andorra-la-Velya"
+    ],
+    "name:vec_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:vep_x_preferred":[
+        "Andorr la Vel'j"
+    ],
+    "name:vie_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:vls_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:vol_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:vro_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:war_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:wel_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:wol_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:yor_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u9053\u723e\u57ce"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u9053\u5c14\u57ce"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u9053\u723e\u57ce",
+        "\u5b89\u9053\u5c14\u57ce"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u5b89\u9053\u723e\u57ce"
+    ],
+    "qs:a0":"Andorra",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Andorra",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Andorra la Vella",
+    "qs:loc_alt":"Andorra la Vella",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point disambiguated",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1304,
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667923
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632343,
+    "wof:concordances":{
+        "fct:id":"030c418a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3041563,
+        "gp:id":472553,
+        "qs:id":296804,
+        "qs_pg:id":296804,
+        "wd:id":"Q1863",
+        "wk:page":"Andorra la Vella"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"eaf2346050dfa04c2c2c587b47d84325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":101877135,
+            "region_id":85667923
+        }
+    ],
+    "wof:id":101877135,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1536881198,
+    "wof:name":"Andorra la Vella",
+    "wof:parent_id":85667923,
+    "wof:placetype":"locality",
+    "wof:population":20430,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.50074076760851,
+    42.48869566536445,
+    1.53474856359821,
+    42.5211409415474
+],
+  "geometry": {"coordinates":[[[1.53377443600186,42.51707904308711],[1.53474856359821,42.49812246469742],[1.53457314357019,42.49780891258109],[1.53439153889552,42.49749890151995],[1.53420382102601,42.49719255348689],[1.53401006381868,42.4968899890136],[1.53381034350669,42.49659132714314],[1.53360473866939,42.49629668538308],[1.53339333020136,42.49600617965933],[1.53317620128061,42.49571992427045],[1.53295343733584,42.49543803184274],[1.53272512601283,42.4951606132859],[1.53249135713997,42.49488777774942],[1.53225222269289,42.49461963257957],[1.53200781675831,42.49435628327726],[1.53175823549697,42.49409783345644],[1.53150357710587,42.4938443848034],[1.53124394177954,42.49359603703672],[1.53097943167071,42.49335288786808],[1.53071015085005,42.49311503296374],[1.53043620526528,42.49288256590699],[1.53015770269943,42.49265557816127],[1.52987475272848,42.49243415903421],[1.52958746667822,42.49221839564247],[1.52929595758044,42.49200837287751],[1.52900034012852,42.49180417337211],[1.5287007306322,42.49160587746794],[1.52839724697193,42.49141356318392],[1.52809000855241,42.4912273061855],[1.52777913625565,42.49104717975492],[1.52746475239338,42.49087325476237],[1.52714698065896,42.49070559963809],[1.5268259460787,42.49054428034549],[1.52650177496266,42.49038936035512],[1.52617459485496,42.49024090061979],[1.5258445344836,42.49009895955052],[1.52551172370981,42.48996359299357],[1.52517629347696,42.4898348542085],[1.52483837575904,42.4897127938472],[1.52449810350872,42.48959745993392],[1.52415561060506,42.48948889784645],[1.52381103180085,42.48938715029819],[1.52346450266954,42.48929225732141],[1.52311615955194,42.48920425625145],[1.52276613950259,42.48912318171206],[1.52241458023577,42.48904906560178],[1.5220616200714,42.48898193708133],[1.52170739788055,42.48892182256226],[1.52135205303086,42.48886874569641],[1.52099572533166,42.48882272736673],[1.52063855497896,42.48878378567898],[1.52028068250035,42.48875193595464],[1.51992224869963,42.48872719072489],[1.51956339460149,42.48870955972566],[1.51920426139594,42.48869904989383],[1.51884499038285,42.48869566536445],[1.51848572291627,42.48869940746913],[1.51812660034888,42.4887102747356],[1.51776776397634,42.48872826288812],[1.5174093549817,42.48875336484932],[1.51705151437989,42.48878557074293],[1.51669438296217,42.48882486789763],[1.5163381012408,42.48887124085206],[1.5159828093937,42.48892467136096],[1.51562864720937,42.48898513840222],[1.51527575403182,42.4890526181853],[1.51492426870577,42.48912708416048],[1.51457432952203,42.48920850702935],[1.5142260741631,42.48929685475633],[1.51387963964896,42.4893920925813],[1.5135351622832,42.48949418303321],[1.51319277759938,42.4896030859449],[1.51285262030769,42.48971875846885],[1.51251482424196,42.48984115509408],[1.512179522307,42.489970227664],[1.51184684642633,42.4901059253954],[1.51151692749024,42.49024819489845],[1.51118989530431,42.49039698019764],[1.51086587853834,42.49055222275386],[1.51054500467573,42.49071386148741],[1.5102273999633,42.49088183280202],[1.50991318936165,42.49105607060991],[1.50960249649596,42.49123650635776],[1.50929544360738,42.49142306905366],[1.50899215150491,42.4916156852951],[1.50869273951789,42.49181427929783],[1.50839732544905,42.49201877292565],[1.50810602552813,42.49222908572118],[1.50781895436618,42.49244513493749],[1.50753622491047,42.4926668355707],[1.50725794840002,42.49289410039336],[1.50698423432186,42.49312683998885],[1.50671519036795,42.49336496278649],[1.50645092239281,42.4936083750976],[1.50619153437184,42.49385698115236],[1.50593712836045,42.4941106831375],[1.50568780445392,42.49436938123475],[1.50544366074795,42.49463297366015],[1.50520479330013,42.49490135670406],[1.50497129609212,42.49517442477202],[1.50474326099267,42.49545207042624],[1.50452077772148,42.4957341844279],[1.50430393381391,42.49602065578011],[1.50409281458653,42.49631137177163],[1.50388750310353,42.49660621802111],[1.50368808014409,42.49690507852225],[1.50349462417055,42.49720783568928],[1.50330721129756,42.49751437040335],[1.50312591526214,42.49782456205931],[1.50295080739466,42.49813828861323],[1.50278195659075,42.49845542663036],[1.50261942928425,42.49877585133374],[1.50246328942103,42.49909943665325],[1.50231359843382,42.49942605527525],[1.50217041521808,42.49975557869266],[1.50203379610881,42.50008787725551],[1.50190379485837,42.50042282022196],[1.50178046261535,42.50076027580973],[1.50166384790443,42.50110011124798],[1.50155399660733,42.50144219282949],[1.50145095194468,42.50178638596334],[1.50135475445909,42.5021325552278],[1.50126544199916,42.50248056442365],[1.50118304970462,42.50283027662773],[1.50110760999243,42.50318155424689],[1.50103915254414,42.503534259072],[1.50097770429411,42.50388825233247],[1.50092328941896,42.50424339475074],[1.50087592932806,42.50459954659712],[1.50083564265509,42.50495656774478],[1.50080244525072,42.50531431772483],[1.50077635017635,42.50567265578168],[1.50075736769903,42.50603144092831],[1.50074550528734,42.50639053200182],[1.50074076760851,42.50674978771895],[1.50074315652657,42.50710906673164],[1.5007526711016,42.50746822768269],[1.50076930759014,42.50782712926131],[1.50079305944659,42.5081856302588],[1.50082391732587,42.50854358962406],[1.50086186908704,42.50890086651908],[1.5009068997981,42.50925732037437],[1.50095899174186,42.50961281094427],[1.50101812442289,42.50996719836211],[1.50108427457563,42.51032034319526],[1.50115741617351,42.51067210649998],[1.50123752043919,42.51102234987609],[1.50132455585589,42.51137093552142],[1.50141848817981,42.51171772628602],[1.50151928045355,42.51206258572615],[1.50162689302072,42.51240537815791],[1.50174128354147,42.5127459687107],[1.50186240700923,42.51308422338022],[1.50199021576832,42.51342000908121],[1.50212465953279,42.51375319369983],[1.50226568540616,42.51408364614562],[1.50241323790223,42.5144112364031],[1.50256725896694,42.51473583558288],[1.50272768800117,42.51505731597243],[1.50289446188461,42.51537555108629],[1.5030675150006,42.51569041571583],[1.50324677926193,42.51600178597854],[1.50343218413762,42.51630953936676],[1.5036236566807,42.51661355479587],[1.50382112155689,42.51691371265193],[1.50402450107426,42.51720989483878],[1.50423371521375,42.51750198482444],[1.50444868166072,42.51778986768703],[1.50466931583727,42.51807343015991],[1.50489553093558,42.51835256067631],[1.52993048902852,42.5211409415474],[1.5302060604112,42.5209236691272],[1.53047737089844,42.52070109888875],[1.53074431865623,42.52047331437183],[1.53100680348805,42.52024040107338],[1.53126472687253,42.52000244641535],[1.53151799200037,42.51975953971196],[1.53176650381072,42.5195117721361],[1.53201016902686,42.51925923668517],[1.53224889619118,42.51900202814613],[1.53248259569952,42.51874024305997],[1.53271117983481,42.51847397968542],[1.53293456280001,42.51820333796212],[1.53315266075027,42.51792841947306],[1.53336539182443,42.5176493274065],[1.53357267617575,42.51736616651719],[1.53377443600186,42.51707904308711]]],"type":"Polygon"}
+}

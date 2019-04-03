@@ -1,0 +1,66 @@
+{
+  "id": 1293097879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53808,42.55713,1.53808,42.55713",
+    "geom:latitude":42.55713,
+    "geom:longitude":1.53808,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Segudet",
+    "gn:country_code":"AD",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3039132,
+    "gn:latitude":42.55713,
+    "gn:longitude":1.53808,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Segudet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Andorra",
+    "iso:country":"AD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3039132,
+        "wk:page":"Segudet"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"71d31371eb4b9f97989ef9f9260d6d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1293097879,
+            "region_id":85667925
+        }
+    ],
+    "wof:id":1293097879,
+    "wof:lastmodified":1537485203,
+    "wof:name":"Segudet",
+    "wof:parent_id":85667925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53808,
+    42.55713,
+    1.53808,
+    42.55713
+],
+  "geometry": {"coordinates":[1.53808,42.55713],"type":"Point"}
+}

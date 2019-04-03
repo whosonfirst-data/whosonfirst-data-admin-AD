@@ -1,0 +1,162 @@
+{
+  "id": 1125906855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5,42.5,1.5,42.5",
+    "geom:latitude":42.5,
+    "geom:longitude":1.5,
+    "gn:gn_country":"AD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AD",
+    "lbl:latitude":42.5,
+    "lbl:longitude":1.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u79d1\u6d1b\u99ac"
+    ],
+    "name:cze_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03bf\u03bb\u03cc\u03bc\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e7\u05d5\u05dc\u05d5\u05de\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30ed\u30fc\u30de\u30fb\u30c0\u30f3\u30c9\u30e9"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Koloma"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0648\u0644\u0648\u0645\u0627 \u062f\u0622\u0646\u062f\u0648\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:por_x_preferred":[
+        "Santa Coloma de Andorra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u043e\u043b\u043e\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Coloma de Andorra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u043e\u043b\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Coloma"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u043e\u043b\u043e\u043c\u0430"
+    ],
+    "qs_pg:aaroncc":"AD",
+    "qs_pg:gn_country":"AD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3039181,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa Coloma",
+    "qs_pg:name_adm0":"Andorra",
+    "qs_pg:name_adm1":"Andorra la Vella",
+    "qs_pg:photos":155,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475537,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424744,
+    "qs_pg:woe_id":472600,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424744,
+    "woe:name_adm0":"Andorra",
+    "woe:name_adm1":"Andorra la Vella",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3039181,
+        "gp:id":472600,
+        "qs_pg:id":475537,
+        "wd:id":"Q24597"
+    },
+    "wof:country":"AD",
+    "wof:created":1497296017,
+    "wof:geomhash":"071647426899f1b9d135d650f62769e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1125906855,
+            "region_id":85667923
+        }
+    ],
+    "wof:id":1125906855,
+    "wof:lastmodified":1513888033,
+    "wof:name":"Santa Coloma",
+    "wof:parent_id":85667923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5,
+    42.5,
+    1.5,
+    42.5
+],
+  "geometry": {"coordinates":[1.5,42.5],"type":"Point"}
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1125972347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73361,42.54277,1.73361,42.54277",
+    "geom:latitude":42.54277,
+    "geom:longitude":1.73361,
+    "gn:gn_country":"AD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2363,
+    "gn:population":2363,
+    "iso:country":"AD",
+    "lbl:latitude":42.54277,
+    "lbl:longitude":1.73361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Pas De La Casa"
+    ],
+    "name:cat_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:dut_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:eng_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:fre_x_preferred":[
+        "Pas de la Case"
+    ],
+    "name:ger_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:ita_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b9\u30fb\u30c0\u30fb\u30e9\u30fb\u30ab\u30b6"
+    ],
+    "name:lit_x_preferred":[
+        "El Pas de la Kasa"
+    ],
+    "name:lmo_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:nob_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:oci_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0633 \u062f\u0647 \u0644\u0627 \u06a9\u0627\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:por_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441 \u0434\u0435 \u043b\u0430 \u041a\u0430\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0441 \u0434\u0435 \u043b\u0430 \u041a\u0430\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:tur_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441-\u0434\u0435-\u043b\u0430-\u041a\u0430\u0441\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "qs_pg:aaroncc":"AD",
+    "qs_pg:gn_country":"AD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3039604,
+    "qs_pg:gn_pop":2363,
+    "qs_pg:name":"Pas de la Case",
+    "qs_pg:name_adm0":"France",
+    "qs_pg:name_adm1":"Languedoc-Roussillon",
+    "qs_pg:photos":194,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":194,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":525019,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424819,
+    "qs_pg:woe_id":29331511,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424819,
+    "woe:name_adm0":"France",
+    "woe:name_adm1":"Languedoc-Roussillon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85633147,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3039604,
+        "gp:id":29331511,
+        "qs_pg:id":525019,
+        "wd:id":"Q24456"
+    },
+    "wof:country":"AD",
+    "wof:created":1497298222,
+    "wof:geomhash":"bddd200243d13423cb2a3d0552b23b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1125972347,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125972347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125972347,
+    "wof:lastmodified":1513888031,
+    "wof:name":"Pas de la Case",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2363,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73361,
+    42.54277,
+    1.73361,
+    42.54277
+],
+  "geometry": {"coordinates":[1.73361,42.54277],"type":"Point"}
+}

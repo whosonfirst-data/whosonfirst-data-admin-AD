@@ -1,0 +1,211 @@
+{
+  "id": 85667923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001588,
+    "geom:area_square_m":14473690.592065,
+    "geom:bbox":"1.48719086597,42.489032431,1.55635091846,42.5381137581",
+    "geom:latitude":42.515382,
+    "geom:longitude":1.515481,
+    "gn:population":24211,
+    "iso:country":"AD",
+    "label:eng_x_preferred_longname":[
+        "Andorra la Vella Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":42.511248,
+    "lbl:longitude":1.510242,
+    "mps:latitude":42.511248,
+    "mps:longitude":1.510242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia d'Andorra la Vella"
+    ],
+    "name:dut_x_preferred":[
+        "Parochie Andorra la Vella"
+    ],
+    "name:eng_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:fra_x_preferred":[
+        "Andorre la Vieille"
+    ],
+    "name:fra_x_variant":[
+        "Andorre-la-Vieille"
+    ],
+    "name:fre_x_preferred":[
+        "Andorre-la-Vieille"
+    ],
+    "name:ita_x_preferred":[
+        "parrocchia di Andorra la Vella"
+    ],
+    "name:may_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:oci_x_preferred":[
+        "And\u00f2rra la Vi\u00e8lha"
+    ],
+    "name:por_x_preferred":[
+        "Andorra-a-Velha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430-\u043b\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:und_x_preferred":[
+        "Andorra la Vella"
+    ],
+    "name:vec_x_preferred":[
+        "Parochia de Andorra la Vella"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"AND",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"AND-4876",
+    "ne:adm1_code":"AND-4876",
+    "ne:admin":"Andorra",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"AD.AN",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4876",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AN07",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Andorra",
+    "ne:gn_a1_code":"AD.07",
+    "ne:gn_id":"3041566",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Parroquia d'Andorra la Vella",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AN07",
+    "ne:gns_id":"-1394436",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Andorra la Vella",
+    "ne:gns_region":"",
+    "ne:gu_a3":"AND",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AD-07",
+    "ne:iso_a2":"AD",
+    "ne:labelrank":"20",
+    "ne:latitude":"42.51280000000",
+    "ne:longitude":"1.51066000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Andorra la Vella",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"AND",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Andorra_la_Vella",
+    "ne:woe_id":20070553,
+    "ne:woe_label":"Andorra la Vella, AD, Andorra",
+    "ne:woe_name":"Andorra la Vella",
+    "qs:a0":"Andorra",
+    "qs:a0_lc":"AD",
+    "qs:a1":"Andorra la Vella",
+    "qs:a1_lc":"AND-4876",
+    "qs:adm0":"Andorra",
+    "qs:adm0_a3":"AND",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-12-31",
+    "statoids:area_km":"12",
+    "statoids:area_mi":"5",
+    "statoids:as_of_date":"2012-12-31",
+    "statoids:capital":"Andorra",
+    "statoids:country":"AD",
+    "statoids:gec":"AN07",
+    "statoids:hasc":"AD.AN",
+    "statoids:iso":"07",
+    "statoids:name":"Andorra la Vella",
+    "statoids:population":"22398",
+    "statoids:timezone":"+1~",
+    "statoids:type":"parish",
+    "unlc:subdivision":"AD-07",
+    "wof:belongsto":[
+        102191581,
+        85632343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AN07",
+        "gn:id":3041566,
+        "gp:id":20070553,
+        "hasc:id":"AD.AN",
+        "iso:id":"AD-07",
+        "qs:id":1115276,
+        "unlc:id":"AD-07",
+        "wd:id":"Q2522163"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"53be45af0c803ecccc283e8cca030c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "region_id":85667923
+        }
+    ],
+    "wof:id":85667923,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "cat"
+    ],
+    "wof:lang_x_spoken":[
+        "cat"
+    ],
+    "wof:lastmodified":1553550291,
+    "wof:name":"Andorra la Vella",
+    "wof:parent_id":85632343,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":22398,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:shortcode":"AN",
+    "wof:subdivision":"AD-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48719086596571,
+    42.48903243100193,
+    1.55635091846017,
+    42.53811375814348
+],
+  "geometry": {"coordinates":[[[1.4990893696787,42.48903243100193],[1.49314011782224,42.49349436966946],[1.48942183484985,42.50316190359905],[1.4886781791547,42.50911115545551],[1.48719086596571,42.5180350336899],[1.50280765175177,42.52472794214088],[1.51768078094335,42.53216450628696],[1.53181025443973,42.53439547607042],[1.54370875815272,42.53811375814348],[1.55635091846017,42.53811375814348],[1.54965801000918,42.52993353740288],[1.53850316289072,42.52175331576296],[1.53329756762867,42.51654772050097],[1.5273483157722,42.50836749886105],[1.51916809413228,42.497956308337],[1.5072695904193,42.492750713075],[1.4990893696787,42.48903243100193]]],"type":"Polygon"}
+}

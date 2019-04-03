@@ -1,0 +1,89 @@
+{
+  "id": 1125810213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.45949,42.48238,1.45949,42.48238",
+    "geom:latitude":42.48238,
+    "geom:longitude":1.45949,
+    "gn:gn_country":"AD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AD",
+    "lbl:latitude":42.48238,
+    "lbl:longitude":1.45949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Vixesarri"
+    ],
+    "qs_pg:aaroncc":"AD",
+    "qs_pg:gn_country":"AD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3041375,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bixessarri",
+    "qs_pg:name_adm0":"Andorra",
+    "qs_pg:name_adm1":"Sant Juli\u00e0 de L\u00f2ria",
+    "qs_pg:photos":194,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":194,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":228693,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424744,
+    "qs_pg:woe_id":472559,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424744,
+    "woe:name_adm0":"Andorra",
+    "woe:name_adm1":"Sant Juli\u00e0 de L\u00f2ria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041375,
+        "gp:id":472559,
+        "qs_pg:id":228693
+    },
+    "wof:country":"AD",
+    "wof:created":1497291625,
+    "wof:geomhash":"c431e548633aae60f9d534d7c49221ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":1125810213,
+            "region_id":85667945
+        }
+    ],
+    "wof:id":1125810213,
+    "wof:lastmodified":1509393491,
+    "wof:name":"Bixessarri",
+    "wof:parent_id":85667945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.45949,
+    42.48238,
+    1.45949,
+    42.48238
+],
+  "geometry": {"coordinates":[1.45949,42.48238],"type":"Point"}
+}
