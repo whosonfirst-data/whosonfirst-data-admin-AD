@@ -19,23 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Pas De La Casa"
-    ],
     "name:cat_x_preferred":[
         "El Pas de la Casa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Pas de la Casa"
     ],
     "name:eng_x_preferred":[
         "El Pas de la Casa"
     ],
-    "name:fre_x_preferred":[
-        "Pas de la Case"
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633 \u062f\u0647 \u0644\u0627 \u06a9\u0627\u0633\u0627"
     ],
-    "name:ger_x_preferred":[
-        "El Pas de la Casa"
+    "name:fra_x_preferred":[
+        "Pas de la Case"
     ],
     "name:ita_x_preferred":[
         "Pas de la Casa"
@@ -49,14 +46,14 @@
     "name:lmo_x_preferred":[
         "Pas de la Casa"
     ],
+    "name:nld_x_preferred":[
+        "El Pas de la Casa"
+    ],
     "name:nob_x_preferred":[
         "Pas de la Casa"
     ],
     "name:oci_x_preferred":[
         "El Pas de la Casa"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633 \u062f\u0647 \u0644\u0627 \u06a9\u0627\u0633\u0627"
     ],
     "name:pol_x_preferred":[
         "Pas de la Casa"
@@ -69,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "El Pas de la Casa"
+    ],
+    "name:sqi_x_preferred":[
+        "Pas De La Casa"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0441 \u0434\u0435 \u043b\u0430 \u041a\u0430\u0441\u0430"
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1125972347,
-    "wof:lastmodified":1513888031,
+    "wof:lastmodified":1561772689,
     "wof:name":"Pas de la Case",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

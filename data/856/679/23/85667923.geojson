@@ -28,9 +28,6 @@
     "name:cat_x_preferred":[
         "Parr\u00f2quia d'Andorra la Vella"
     ],
-    "name:dut_x_preferred":[
-        "Parochie Andorra la Vella"
-    ],
     "name:eng_x_preferred":[
         "Andorra la Vella"
     ],
@@ -40,14 +37,14 @@
     "name:fra_x_variant":[
         "Andorre-la-Vieille"
     ],
-    "name:fre_x_preferred":[
-        "Andorre-la-Vieille"
-    ],
     "name:ita_x_preferred":[
         "parrocchia di Andorra la Vella"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Andorra la Vella"
+    ],
+    "name:nld_x_preferred":[
+        "Parochie Andorra la Vella"
     ],
     "name:oci_x_preferred":[
         "And\u00f2rra la Vi\u00e8lha"
@@ -186,7 +183,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1553550291,
+    "wof:lastmodified":1561772688,
     "wof:name":"Andorra la Vella",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
