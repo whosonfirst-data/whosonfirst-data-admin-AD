@@ -31,6 +31,12 @@
     "name:arg_x_preferred":[
         "La Massana"
     ],
+    "name:ast_x_preferred":[
+        "La Massana"
+    ],
+    "name:bar_x_preferred":[
+        "La Massana"
+    ],
     "name:bel_x_variant":[
         "\u041b\u044f-\u041c\u0430\u0441\u0430\u043d\u0430"
     ],
@@ -103,6 +109,9 @@
     "name:ita_x_preferred":[
         "Parrocchia di La Massana"
     ],
+    "name:ita_x_variant":[
+        "La Massana"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30de\u30b5\u30ca\u6559\u533a"
     ],
@@ -120,6 +129,9 @@
     ],
     "name:lit_x_preferred":[
         "La Masana"
+    ],
+    "name:lmo_x_preferred":[
+        "La Massana"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e \u092e\u0938\u0928\u093e\u0928\u093e"
@@ -338,7 +350,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772688,
+    "wof:lastmodified":1562615918,
     "wof:name":"La Massana",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

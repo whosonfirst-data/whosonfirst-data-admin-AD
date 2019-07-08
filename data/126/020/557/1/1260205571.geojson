@@ -25,6 +25,36 @@
     "iso:country":"AD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Nagol"
+    ],
+    "name:cat_x_preferred":[
+        "Nagol"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Nagol"
+    ],
+    "name:fra_x_preferred":[
+        "Nagol"
+    ],
+    "name:ita_x_preferred":[
+        "Nagol"
+    ],
+    "name:lmo_x_preferred":[
+        "Nagol"
+    ],
+    "name:nld_x_preferred":[
+        "Nagol"
+    ],
+    "name:spa_x_preferred":[
+        "Nagol"
+    ],
+    "name:sqi_x_preferred":[
+        "Nagol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1260205571,
-    "wof:lastmodified":1537485203,
+    "wof:lastmodified":1562615960,
     "wof:name":"Nagol",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

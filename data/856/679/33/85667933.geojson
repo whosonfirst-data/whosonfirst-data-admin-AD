@@ -34,6 +34,9 @@
     "name:ast_x_preferred":[
         "Canillo"
     ],
+    "name:bar_x_preferred":[
+        "Canillo"
+    ],
     "name:bel_x_variant":[
         "\u041a\u0430\u043d\u0456\u043b\u044c\u043b\u0451"
     ],
@@ -109,6 +112,9 @@
     "name:ita_x_preferred":[
         "Parrocchia di Canillo"
     ],
+    "name:ita_x_variant":[
+        "Canillo"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30cb\u30fc\u30ea\u30e7\u6559\u533a"
     ],
@@ -126,6 +132,9 @@
     ],
     "name:lit_x_preferred":[
         "Kaniljas"
+    ],
+    "name:lmo_x_preferred":[
+        "Canillo"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u093f\u0932\u094b"
@@ -347,7 +356,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772687,
+    "wof:lastmodified":1562615736,
     "wof:name":"Canillo",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

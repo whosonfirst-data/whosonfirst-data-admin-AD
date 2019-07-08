@@ -18,6 +18,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Soldeu"
+    ],
+    "name:bar_x_preferred":[
+        "Soldeu"
+    ],
+    "name:cat_x_preferred":[
+        "Soldeu"
+    ],
+    "name:deu_x_preferred":[
+        "Soldeu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u062f\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Soldeu"
+    ],
+    "name:fra_x_preferred":[
+        "Soldeu"
+    ],
+    "name:ita_x_preferred":[
+        "Soldeu"
+    ],
+    "name:lmo_x_preferred":[
+        "Soldeu"
+    ],
+    "name:nld_x_preferred":[
+        "Soldeu"
+    ],
+    "name:nor_x_preferred":[
+        "Soldeu"
+    ],
+    "name:pol_x_preferred":[
+        "Soldeu"
+    ],
+    "name:por_x_preferred":[
+        "Soldeu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u044c\u0434\u0435\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Soldeu"
+    ],
+    "name:sqi_x_preferred":[
+        "Soldeu"
+    ],
+    "name:swe_x_preferred":[
+        "Soldeu"
+    ],
+    "name:tur_x_preferred":[
+        "Soldeu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u044c\u0434\u0435\u0443"
+    ],
+    "name:vol_x_preferred":[
+        "Soldeu"
+    ],
     "qs_pg:aaroncc":"AD",
     "qs_pg:gn_country":"AD",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +127,7 @@
         }
     ],
     "wof:id":1125989519,
-    "wof:lastmodified":1509405300,
+    "wof:lastmodified":1562616386,
     "wof:name":"Soldeu",
     "wof:parent_id":85667933,
     "wof:placetype":"locality",

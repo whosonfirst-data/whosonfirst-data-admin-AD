@@ -31,6 +31,12 @@
     "name:arg_x_preferred":[
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
+    "name:ast_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:bar_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043d\u0442-\u0416\u0443\u043b\u0456\u044f-\u0434\u044d-\u041b\u0451\u0440\u044b\u044f"
     ],
@@ -91,6 +97,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05d2\u05d5\u05dc\u05d9\u05d4 \u05d3\u05d4 \u05dc\u05d5\u05e8\u05d9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05df \u05d2'\u05d5\u05dc\u05d9\u05d4 \u05d3\u05d4 \u05dc\u05d5\u05e8\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0902\u0924 \u091c\u0942\u0932\u093f\u092f\u093e \u0921\u0940 \u0932\u094b\u0930\u093f\u092f\u093e \u092a\u0932\u094d\u0932\u0940"
     ],
@@ -127,6 +136,9 @@
     "name:lmo_x_preferred":[
         "Sant Julia de Loria"
     ],
+    "name:lmo_x_variant":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
     "name:ltz_x_preferred":[
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
@@ -139,6 +151,9 @@
     "name:msa_x_preferred":[
         "Sant Julia de Loria"
     ],
+    "name:msa_x_variant":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
     "name:nau_x_preferred":[
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
@@ -148,6 +163,9 @@
     "name:nob_x_preferred":[
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
+    "name:nor_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
     "name:oci_x_preferred":[
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
@@ -155,6 +173,9 @@
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
     "name:por_x_preferred":[
+        "Sant Juli\u00e0 de L\u00f2ria"
+    ],
+    "name:roh_x_preferred":[
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
     "name:ron_x_preferred":[
@@ -201,6 +222,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442-\u0416\u0443\u043b\u0456\u044f-\u0434\u0435-\u041b\u043e\u0440\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043d\u0442-\u0425\u0443\u043b\u0456\u044f-\u0434\u0435-\u041b\u043e\u0440\u0456\u044f"
     ],
     "name:und_x_colloquial":[
         "Sant Julia de Loria"
@@ -347,7 +371,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772688,
+    "wof:lastmodified":1562615786,
     "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

@@ -17,6 +17,135 @@
     "mps:longitude":1.485038,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0645\u0633\u0627\u0646\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "La Massana"
+    ],
+    "name:ast_x_preferred":[
+        "La Massana"
+    ],
+    "name:bar_x_preferred":[
+        "La Massana"
+    ],
+    "name:bre_x_preferred":[
+        "La Massana"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "La Massana"
+    ],
+    "name:ceb_x_preferred":[
+        "La Massana"
+    ],
+    "name:ces_x_preferred":[
+        "La Massana"
+    ],
+    "name:deu_x_preferred":[
+        "La Massana"
+    ],
+    "name:epo_x_preferred":[
+        "La Massana"
+    ],
+    "name:eus_x_preferred":[
+        "La Massana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0645\u0627\u0633\u0627\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "La Massana"
+    ],
+    "name:fra_x_preferred":[
+        "La Massana"
+    ],
+    "name:glg_x_preferred":[
+        "La Massana"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092e\u0938\u093e\u0928\u093e \u092a\u0932\u094d\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "La Massana k\u00f6z\u00f6ss\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u0544\u0561\u057d\u057d\u0561\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "La Massana"
+    ],
+    "name:ita_x_preferred":[
+        "La Massana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30de\u30b5\u30ca\u6559\u533a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10db\u10d0\u10e1\u10d0\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9c8\uc0ac\ub098"
+    ],
+    "name:lit_x_preferred":[
+        "La Masana"
+    ],
+    "name:lmo_x_preferred":[
+        "La Massana"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:nau_x_preferred":[
+        "La Massana"
+    ],
+    "name:nld_x_preferred":[
+        "La Massana"
+    ],
+    "name:nor_x_preferred":[
+        "La Massana"
+    ],
+    "name:oci_x_preferred":[
+        "La Massana"
+    ],
+    "name:pol_x_preferred":[
+        "La Massana"
+    ],
+    "name:por_x_preferred":[
+        "La Massana"
+    ],
+    "name:ron_x_preferred":[
+        "La Massana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "La Massana"
+    ],
+    "name:spa_x_preferred":[
+        "La Massana"
+    ],
+    "name:sqi_x_preferred":[
+        "La Massana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0441\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Massana"
+    ],
+    "name:tgl_x_preferred":[
+        "La Massana"
+    ],
+    "name:tur_x_preferred":[
+        "La Massana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041c\u0430\u0441\u0441\u0430\u043d\u0430"
+    ],
     "name:und_x_colloquial":[
         "La Macana",
         "Massana"
@@ -26,6 +155,21 @@
     ],
     "name:und_x_variant":[
         "La Ma\u00e7ana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0645\u0627\u0633\u0627\u0646\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Parochia de La Massana"
+    ],
+    "name:vol_x_preferred":[
+        "La Massana"
+    ],
+    "name:war_x_preferred":[
+        "La Massana"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8428\u7eb3"
     ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
@@ -71,7 +215,7 @@
         }
     ],
     "wof:id":101851349,
-    "wof:lastmodified":1544741748,
+    "wof:lastmodified":1562615996,
     "wof:name":"La Massana",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

@@ -20,10 +20,31 @@
     "mps:longitude":1.53315,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u062f\u064a\u0646\u0648"
+    ],
     "name:arg_x_preferred":[
         "Ordino"
     ],
+    "name:ast_x_preferred":[
+        "Ordino"
+    ],
+    "name:aze_x_preferred":[
+        "Ordino"
+    ],
+    "name:bar_x_preferred":[
+        "Ordino"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0434\u0438\u043d\u043e"
+    ],
     "name:cat_x_preferred":[
+        "Ordino"
+    ],
+    "name:ceb_x_preferred":[
+        "Ordino"
+    ],
+    "name:ces_x_preferred":[
         "Ordino"
     ],
     "name:deu_x_preferred":[
@@ -32,10 +53,34 @@
     "name:eng_x_preferred":[
         "Ordino"
     ],
+    "name:epo_x_preferred":[
+        "Ordino"
+    ],
     "name:eus_x_preferred":[
         "Ordino"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062f\u06cc\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Ordino"
+    ],
     "name:fra_x_preferred":[
+        "Ordino"
+    ],
+    "name:glg_x_preferred":[
+        "Ordino"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0930\u094d\u0926\u093f\u0928\u094b \u092a\u0932\u094d\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Ordino k\u00f6z\u00f6ss\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0564\u056b\u0576\u0578"
+    ],
+    "name:ind_x_preferred":[
         "Ordino"
     ],
     "name:ita_x_preferred":[
@@ -44,10 +89,31 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30eb\u30c7\u30a3\u30ce\u6559\u533a"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d3\u10d8\u10dc\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub974\ub514\ub178"
+    ],
+    "name:lit_x_preferred":[
+        "Ordinas"
+    ],
+    "name:lmo_x_preferred":[
+        "Ordino"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0434\u0438\u043d\u043e"
+    ],
     "name:nau_x_preferred":[
         "Ordino"
     ],
     "name:nld_x_preferred":[
+        "Ordino"
+    ],
+    "name:nor_x_preferred":[
+        "Ordino"
+    ],
+    "name:oci_x_preferred":[
         "Ordino"
     ],
     "name:pol_x_preferred":[
@@ -56,8 +122,17 @@
     "name:por_x_preferred":[
         "Ordino"
     ],
+    "name:roh_x_preferred":[
+        "Ordino"
+    ],
+    "name:ron_x_preferred":[
+        "Ordino"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Ordino"
     ],
     "name:spa_x_preferred":[
         "Ordino"
@@ -65,8 +140,38 @@
     "name:sqi_x_preferred":[
         "Ordino"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ordino"
+    ],
+    "name:tgl_x_preferred":[
+        "Ordino"
+    ],
+    "name:tur_x_preferred":[
+        "Ordino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0434\u0456\u043d\u043e"
+    ],
     "name:und_x_preferred":[
         "Ordino"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u062f\u06cc\u0646\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Parochia de Ordino"
+    ],
+    "name:vol_x_preferred":[
+        "Ordino"
+    ],
+    "name:war_x_preferred":[
+        "Ordino"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u8fea\u8bfa"
     ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
@@ -134,7 +239,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544741746,
+    "wof:lastmodified":1562616064,
     "wof:name":"Ordino",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

@@ -34,6 +34,12 @@
     "name:ast_x_preferred":[
         "Ordino"
     ],
+    "name:aze_x_preferred":[
+        "Ordino"
+    ],
+    "name:bar_x_preferred":[
+        "Ordino"
+    ],
     "name:bel_x_variant":[
         "\u0410\u0440\u0434\u044b\u043d\u0430"
     ],
@@ -344,7 +350,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772688,
+    "wof:lastmodified":1562615761,
     "wof:name":"Ordino",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

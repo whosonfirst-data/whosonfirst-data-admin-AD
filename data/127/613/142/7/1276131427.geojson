@@ -25,6 +25,27 @@
     "iso:country":"AD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Sant Joan de Caselles"
+    ],
+    "name:cat_x_preferred":[
+        "Sant Joan de Caselles"
+    ],
+    "name:dan_x_preferred":[
+        "Esgl\u00e9sia de Sant Joan de Caselles"
+    ],
+    "name:deu_x_preferred":[
+        "Sant Joan de Caselles"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9glise Sant Joan de Caselles"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Johannes-van-Caselleskerk"
+    ],
+    "name:spa_x_preferred":[
+        "Iglesia de Sant Joan de Caselles"
+    ],
     "name:und_x_variant":[
         "San Joan de Casettas",
         "Sant Joan de Casellas",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1276131427,
-    "wof:lastmodified":1537579938,
+    "wof:lastmodified":1562615942,
     "wof:name":"Sant Joan de Caselles",
     "wof:parent_id":85667933,
     "wof:placetype":"locality",

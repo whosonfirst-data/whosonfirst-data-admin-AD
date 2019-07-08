@@ -34,6 +34,9 @@
     "name:ast_x_preferred":[
         "Encamp"
     ],
+    "name:bar_x_preferred":[
+        "Encamp"
+    ],
     "name:bel_x_variant":[
         "\u042d\u043d\u043a\u0430\u043c\u043f"
     ],
@@ -91,6 +94,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e0\u05e7\u05de\u05e3"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e0\u05e7\u05d0\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0928\u094d\u0915\u092e\u094d\u092a \u092a\u0932\u094d\u0932\u0940"
     ],
@@ -121,11 +127,17 @@
     "name:kor_x_preferred":[
         "\uc5d4\uce84"
     ],
+    "name:kor_x_variant":[
+        "\uc5e5\uce84"
+    ],
     "name:lav_x_preferred":[
         "Enkampa"
     ],
     "name:lit_x_preferred":[
         "Enkampas"
+    ],
+    "name:lmo_x_preferred":[
+        "Encamp"
     ],
     "name:mar_x_preferred":[
         "\u090f\u0928\u094d\u0915\u0945\u092e\u094d\u092a"
@@ -344,7 +356,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772688,
+    "wof:lastmodified":1562615810,
     "wof:name":"Encamp",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
