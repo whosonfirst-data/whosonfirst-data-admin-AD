@@ -31,6 +31,12 @@
     "name:arg_x_preferred":[
         "La Massana"
     ],
+    "name:ast_x_preferred":[
+        "La Massana"
+    ],
+    "name:bar_x_preferred":[
+        "La Massana"
+    ],
     "name:bel_x_variant":[
         "\u041b\u044f-\u041c\u0430\u0441\u0430\u043d\u0430"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:eng_x_preferred":[
         "Massana"
+    ],
+    "name:eng_x_variant":[
+        "La Massana"
     ],
     "name:epo_x_preferred":[
         "La Massana"
@@ -121,6 +130,9 @@
     "name:lit_x_preferred":[
         "La Masana"
     ],
+    "name:lmo_x_preferred":[
+        "La Massana"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093e \u092e\u0938\u0928\u093e\u0928\u093e"
     ],
@@ -157,6 +169,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0430-\u041c\u0430\u0441\u0430\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0430-\u041c\u0430\u0441\u0441\u0430\u043d\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dcf \u0db8\u0dc3\u0dca\u0dc3\u0db1\u0dcf"
     ],
@@ -186,6 +201,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32 \u0e21\u0e31\u0e2a\u0e0b\u0e32\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e32\u0e21\u0e32\u0e0b\u0e32\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "La Massana"
@@ -338,7 +356,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772688,
+    "wof:lastmodified":1563251404,
     "wof:name":"La Massana",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
