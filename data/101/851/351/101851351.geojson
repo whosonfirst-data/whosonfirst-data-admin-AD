@@ -17,6 +17,30 @@
     "mps:longitude":1.49026,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "la Massana"
+    ],
+    "name:ceb_x_preferred":[
+        "La Massana"
+    ],
+    "name:eng_x_preferred":[
+        "La Massana"
+    ],
+    "name:fra_x_preferred":[
+        "La Massana"
+    ],
+    "name:glg_x_preferred":[
+        "La Massana"
+    ],
+    "name:ita_x_preferred":[
+        "La Massana"
+    ],
+    "name:nld_x_preferred":[
+        "La Massana"
+    ],
+    "name:spa_x_preferred":[
+        "La Massana"
+    ],
     "name:und_x_colloquial":[
         "La Macana",
         "Massana"
@@ -69,7 +93,7 @@
         }
     ],
     "wof:id":101851351,
-    "wof:lastmodified":1544741749,
+    "wof:lastmodified":1563251410,
     "wof:name":"La Massana",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

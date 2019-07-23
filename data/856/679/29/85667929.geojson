@@ -34,6 +34,12 @@
     "name:ast_x_preferred":[
         "Ordino"
     ],
+    "name:aze_x_preferred":[
+        "Ordino"
+    ],
+    "name:bar_x_preferred":[
+        "Ordino"
+    ],
     "name:bel_x_variant":[
         "\u0410\u0440\u0434\u044b\u043d\u0430"
     ],
@@ -196,6 +202,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e2d\u0e14\u0e34\u0e42\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e39\u0e23\u0e4c\u0e14\u0e34\u0e19\u0e39"
+    ],
     "name:tur_x_preferred":[
         "Ordino"
     ],
@@ -344,7 +353,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772688,
+    "wof:lastmodified":1563251397,
     "wof:name":"Ordino",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

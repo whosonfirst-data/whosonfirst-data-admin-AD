@@ -17,6 +17,69 @@
     "mps:longitude":1.550182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:bar_x_preferred":[
+        "Escaldas"
+    ],
+    "name:cat_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:ceb_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:deu_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:eng_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0633 \u0627\u0633\u06a9\u0627\u0644\u062f\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e1 \u05d0\u05e1\u05e7\u05dc\u05d3\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:ita_x_preferred":[
+        "Escaldes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b9\u30fb\u30a8\u30b9\u30ab\u30eb\u30c7\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Les Eskaldesas"
+    ],
+    "name:msa_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:nld_x_preferred":[
+        "Escaldes"
+    ],
+    "name:nob_x_preferred":[
+        "Escaldes"
+    ],
+    "name:pol_x_preferred":[
+        "Les Escaldes"
+    ],
+    "name:por_x_preferred":[
+        "Les Escalades"
+    ],
+    "name:spa_x_preferred":[
+        "Las Escaldas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0441\u043a\u0430\u043b\u0434\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Les Escaldes"
+    ],
     "name:und_x_preferred":[
         "Les Escaldes"
     ],
@@ -24,6 +87,9 @@
         "Escades",
         "Escaldas",
         "Escaldes-Engordany"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0633 \u0627\u06cc\u0633\u06a9\u0627\u0644\u06cc\u062f\u0633"
     ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
@@ -71,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1505338451,
+    "wof:lastmodified":1563251419,
     "wof:name":"Escaldes-Engordany",
     "wof:parent_id":85667941,
     "wof:placetype":"locality",

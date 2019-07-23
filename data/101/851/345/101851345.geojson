@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ordino"
     ],
+    "name:ceb_x_preferred":[
+        "Ordino"
+    ],
     "name:deu_x_preferred":[
         "Ordino"
     ],
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544741746,
+    "wof:lastmodified":1563251411,
     "wof:name":"Ordino",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

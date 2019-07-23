@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "la Massana"
     ],
+    "name:ceb_x_preferred":[
+        "La Massana"
+    ],
     "name:deu_x_preferred":[
         "La Massana"
     ],
@@ -36,6 +39,9 @@
         "La Massana"
     ],
     "name:fra_x_preferred":[
+        "La Massana"
+    ],
+    "name:glg_x_preferred":[
         "La Massana"
     ],
     "name:ita_x_preferred":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101877145,
-    "wof:lastmodified":1505338451,
+    "wof:lastmodified":1563251417,
     "wof:name":"La Massana",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",

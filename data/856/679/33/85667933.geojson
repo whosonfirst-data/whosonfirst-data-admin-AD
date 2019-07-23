@@ -34,11 +34,17 @@
     "name:ast_x_preferred":[
         "Canillo"
     ],
+    "name:bar_x_preferred":[
+        "Canillo"
+    ],
     "name:bel_x_variant":[
         "\u041a\u0430\u043d\u0456\u043b\u044c\u043b\u0451"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09cd\u09b2\u09cb"
+    ],
+    "name:bre_x_preferred":[
+        "Canillo"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0438\u043b\u044c\u043e"
@@ -127,6 +133,9 @@
     "name:lit_x_preferred":[
         "Kaniljas"
     ],
+    "name:lmo_x_preferred":[
+        "Canillo"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u093f\u0932\u094b"
     ],
@@ -195,6 +204,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e19\u0e34\u0e25\u0e42\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e19\u0e34\u0e25\u0e22\u0e39"
     ],
     "name:tur_x_preferred":[
         "Canillo"
@@ -347,7 +359,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1561772687,
+    "wof:lastmodified":1563251396,
     "wof:name":"Canillo",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

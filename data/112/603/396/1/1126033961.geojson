@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Bordes de Envalira"
     ],
+    "name:eng_x_variant":[
+        "Bordes d'Envalira"
+    ],
     "name:lmo_x_preferred":[
         "Bordes d'Envalira"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126033961,
-    "wof:lastmodified":1561772689,
+    "wof:lastmodified":1563251421,
     "wof:name":"Bordes d'Envalira",
     "wof:parent_id":85667939,
     "wof:placetype":"locality",
