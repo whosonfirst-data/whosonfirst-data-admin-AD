@@ -25,6 +25,21 @@
     "iso:country":"AD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Aix\u00e0s"
+    ],
+    "name:cat_x_preferred":[
+        "Aix\u00e0s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0633\u0627\u0632"
+    ],
+    "name:lmo_x_preferred":[
+        "Aixas"
+    ],
+    "name:por_x_preferred":[
+        "Aix\u00e1s"
+    ],
     "name:und_x_variant":[
         "Aix\u00e0s"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1277072149,
-    "wof:lastmodified":1537578208,
+    "wof:lastmodified":1564102137,
     "wof:name":"Aixas",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

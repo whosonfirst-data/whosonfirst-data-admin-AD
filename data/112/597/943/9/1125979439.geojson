@@ -18,8 +18,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:cat_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0633\u06cc\u0631\u06cc\u0648\u0627\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:fra_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:ita_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:lmo_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:oci_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:pol_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:roh_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0438\u0440\u0438\u0432\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Aixirivall"
+    ],
+    "name:sqi_x_preferred":[
+        "Aixirivall"
+    ],
     "name:unk_x_variant":[
         "Aixirivali"
+    ],
+    "name:vol_x_preferred":[
+        "Aixirivall"
     ],
     "qs_pg:aaroncc":"AD",
     "qs_pg:gn_country":"AD",
@@ -70,7 +112,7 @@
         }
     ],
     "wof:id":1125979439,
-    "wof:lastmodified":1509404673,
+    "wof:lastmodified":1564102146,
     "wof:name":"Aixirivall",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

@@ -18,6 +18,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Llorts"
+    ],
+    "name:cat_x_preferred":[
+        "Llorts"
+    ],
+    "name:deu_x_preferred":[
+        "Llorts"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u062a\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Llorts"
+    ],
+    "name:fra_x_preferred":[
+        "Llorts"
+    ],
+    "name:ita_x_preferred":[
+        "Llorts"
+    ],
+    "name:lmo_x_preferred":[
+        "Llorts"
+    ],
+    "name:nld_x_preferred":[
+        "Llorts"
+    ],
+    "name:roh_x_preferred":[
+        "Llorts"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u043e\u0440\u0442\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Llorts"
+    ],
+    "name:sqi_x_preferred":[
+        "Llorts"
+    ],
     "name:unk_x_variant":[
         "Llors"
     ],
@@ -70,7 +109,7 @@
         }
     ],
     "wof:id":1126008573,
-    "wof:lastmodified":1509406535,
+    "wof:lastmodified":1564102148,
     "wof:name":"Llorts",
     "wof:parent_id":85667929,
     "wof:placetype":"locality",

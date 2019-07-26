@@ -19,17 +19,68 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Arinsal"
+    ],
+    "name:cat_x_preferred":[
+        "Arinsal"
+    ],
+    "name:ceb_x_preferred":[
+        "Arinsal"
+    ],
+    "name:deu_x_preferred":[
+        "Arinsal"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u06cc\u0646\u0633\u0627\u0644"
     ],
+    "name:fin_x_preferred":[
+        "Arinsal"
+    ],
+    "name:fra_x_preferred":[
+        "Arinsal"
+    ],
+    "name:ita_x_preferred":[
+        "Arinsal"
+    ],
     "name:lit_x_preferred":[
         "Arinsalis"
+    ],
+    "name:lmo_x_preferred":[
+        "Arinsal"
+    ],
+    "name:nld_x_preferred":[
+        "Arinsal"
+    ],
+    "name:nor_x_preferred":[
+        "Arinsal"
+    ],
+    "name:oci_x_preferred":[
+        "Arinsal"
+    ],
+    "name:pol_x_preferred":[
+        "Arinsal"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0438\u043d\u0441\u0430\u043b"
     ],
     "name:rus_x_variant":[
         "\u0410\u0440\u0438\u043d\u0441\u0430\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Arinsal"
+    ],
+    "name:spa_x_preferred":[
+        "Arinsal"
+    ],
+    "name:sqi_x_preferred":[
+        "Arinsal"
+    ],
+    "name:swe_x_preferred":[
+        "Arinsal"
+    ],
+    "name:vol_x_preferred":[
+        "Arinsal"
     ],
     "qs_pg:aaroncc":"AD",
     "qs_pg:gn_country":"AD",
@@ -81,7 +132,7 @@
         }
     ],
     "wof:id":1125805117,
-    "wof:lastmodified":1509393254,
+    "wof:lastmodified":1564102144,
     "wof:name":"Arinsal",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",
