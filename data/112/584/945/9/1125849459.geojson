@@ -18,6 +18,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Arans"
+    ],
+    "name:bar_x_preferred":[
+        "Arans"
+    ],
+    "name:cat_x_preferred":[
+        "Arans"
+    ],
+    "name:deu_x_preferred":[
+        "Arans"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0646\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Arans"
+    ],
+    "name:fra_x_preferred":[
+        "Arans"
+    ],
+    "name:ita_x_preferred":[
+        "Arans"
+    ],
+    "name:lmo_x_preferred":[
+        "Arans"
+    ],
+    "name:nld_x_preferred":[
+        "Arans"
+    ],
+    "name:oci_x_preferred":[
+        "Arans"
+    ],
+    "name:roh_x_preferred":[
+        "Arans"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Arans"
+    ],
+    "name:sqi_x_preferred":[
+        "Arans"
+    ],
     "qs_pg:aaroncc":"AD",
     "qs_pg:gn_country":"AD",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +112,7 @@
         }
     ],
     "wof:id":1125849459,
-    "wof:lastmodified":1509395834,
+    "wof:lastmodified":1564102150,
     "wof:name":"Arans",
     "wof:parent_id":85667929,
     "wof:placetype":"locality",
