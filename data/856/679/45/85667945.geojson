@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JL"
+    ],
     "lbl:latitude":42.466032,
     "lbl:longitude":1.473523,
     "mps:latitude":42.466032,
@@ -344,16 +347,13 @@
         }
     ],
     "wof:id":85667945,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "cat"
     ],
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1563251398,
+    "wof:lastmodified":1565634328,
     "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

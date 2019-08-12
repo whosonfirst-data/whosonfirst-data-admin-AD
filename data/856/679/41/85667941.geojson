@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EE"
+    ],
     "lbl:latitude":42.490119,
     "lbl:longitude":1.607302,
     "mps:latitude":42.490119,
@@ -335,16 +338,13 @@
         }
     ],
     "wof:id":85667941,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "cat"
     ],
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1563251400,
+    "wof:lastmodified":1565634328,
     "wof:name":"Escaldes-Engordany",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

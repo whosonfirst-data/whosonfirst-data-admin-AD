@@ -15,6 +15,9 @@
     "itu:country_code":[
         "376"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":42.547076,
     "lbl:longitude":1.576286,
     "mps:latitude":42.547076,
@@ -1130,16 +1133,13 @@
         }
     ],
     "wof:id":85632343,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "cat"
     ],
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1563251394,
+    "wof:lastmodified":1565634328,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
