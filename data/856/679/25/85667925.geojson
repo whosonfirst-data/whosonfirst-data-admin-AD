@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":42.553947,
     "lbl:longitude":1.462699,
     "mps:latitude":42.553947,
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85667925,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "cat"
     ],
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1563251404,
+    "wof:lastmodified":1565634328,
     "wof:name":"La Massana",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
