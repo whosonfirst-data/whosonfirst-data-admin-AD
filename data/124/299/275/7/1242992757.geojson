@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1242992757,
-    "wof:lastmodified":1536962533,
+    "wof:lastmodified":1566343523,
     "wof:name":"Ramio",
     "wof:parent_id":85667941,
     "wof:placetype":"locality",

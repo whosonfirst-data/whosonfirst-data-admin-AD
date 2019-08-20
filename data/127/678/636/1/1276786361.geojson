@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1276786361,
-    "wof:lastmodified":1536669024,
+    "wof:lastmodified":1566343521,
     "wof:name":"Sant Miquel d'Engolasters",
     "wof:parent_id":85667941,
     "wof:placetype":"locality",

@@ -13,10 +13,12 @@
     "iso:country":"AD",
     "lbl:latitude":42.531386,
     "lbl:longitude":1.516796,
+    "lbl:max_zoom":15.0,
     "mps:latitude":42.531386,
     "mps:longitude":1.516796,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "La Massana"
     ],
@@ -75,13 +77,7 @@
         "La Macana",
         "Massana"
     ],
-    "name:und_x_preferred":[
-        "La Massana"
-    ],
     "name:und_x_variant":[
-        "La Ma\u00e7ana"
-    ],
-    "name:unk_x_variant":[
         "La Ma\u00e7ana"
     ],
     "qs:a0":"Andorra",
@@ -97,7 +93,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -123,7 +119,7 @@
         }
     ],
     "wof:id":101877145,
-    "wof:lastmodified":1563251417,
+    "wof:lastmodified":1566343522,
     "wof:name":"La Massana",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",

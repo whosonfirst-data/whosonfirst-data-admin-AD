@@ -13,10 +13,12 @@
     "iso:country":"AD",
     "lbl:latitude":42.466503,
     "lbl:longitude":1.491716,
+    "lbl:max_zoom":15.0,
     "mps:latitude":42.466503,
     "mps:longitude":1.491716,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u062c\u0648\u0644\u064a\u0627 \u062f\u064a \u0644\u0648\u0631\u064a\u0627"
     ],
@@ -99,9 +101,6 @@
         "Sta Julia de Loria",
         "Sta. Julia de Loria"
     ],
-    "name:und_x_preferred":[
-        "Sant Juli\u00e0 de L\u00f2ria"
-    ],
     "name:und_x_variant":[
         "S Juli\u00e1",
         "S. Juli\u00e1",
@@ -134,7 +133,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,8 +145,7 @@
         "fct:id":"030c3e4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3039163,
         "gp:id":472598,
-        "qs:id":489804,
-        "qs_pg:id":489804
+        "qs:id":489804
     },
     "wof:country":"AD",
     "wof:geomhash":"5b317d97c4bc49a1df54deace3d0c854",
@@ -163,7 +161,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564102141,
+    "wof:lastmodified":1566343521,
     "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

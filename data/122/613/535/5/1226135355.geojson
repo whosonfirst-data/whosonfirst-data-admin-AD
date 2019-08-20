@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bar_x_preferred":[
         "Llumeneres"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1226135355,
-    "wof:lastmodified":1564102151,
+    "wof:lastmodified":1566343523,
     "wof:name":"Llumeneres",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

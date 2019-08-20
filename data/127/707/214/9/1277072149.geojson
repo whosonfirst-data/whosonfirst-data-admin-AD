@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bar_x_preferred":[
         "Aix\u00e0s"
     ],
@@ -39,9 +42,6 @@
     ],
     "name:por_x_preferred":[
         "Aix\u00e1s"
-    ],
-    "name:und_x_variant":[
-        "Aix\u00e0s"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1277072149,
-    "wof:lastmodified":1564102137,
+    "wof:lastmodified":1566343521,
     "wof:name":"Aixas",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

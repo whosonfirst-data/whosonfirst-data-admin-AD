@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Incles"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1243567059,
-    "wof:lastmodified":1564102151,
+    "wof:lastmodified":1566343523,
     "wof:name":"Incles",
     "wof:parent_id":85667933,
     "wof:placetype":"locality",

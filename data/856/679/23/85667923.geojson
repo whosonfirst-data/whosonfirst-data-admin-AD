@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.511248,
     "lbl:longitude":1.510242,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.511248,
     "mps:longitude":1.510242,
     "mz:hierarchy_label":1,
@@ -72,9 +73,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2d\u0e31\u0e19\u0e14\u0e2d\u0e23\u0e4c\u0e23\u0e32\u0e25\u0e32\u0e40\u0e27\u0e22\u0e32"
-    ],
-    "name:und_x_preferred":[
-        "Andorra la Vella"
     ],
     "name:vec_x_preferred":[
         "Parochia de Andorra la Vella"
@@ -148,9 +146,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-12-31",
+    "src:population_date":"2012-12-31",
     "statoids:area_km":"12",
     "statoids:area_mi":"5",
     "statoids:as_of_date":"2012-12-31",
@@ -195,11 +193,10 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1565634328,
+    "wof:lastmodified":1566343521,
     "wof:name":"Andorra la Vella",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":22398,
     "wof:population_rank":7,
