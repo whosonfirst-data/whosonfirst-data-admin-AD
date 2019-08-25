@@ -11,12 +11,16 @@
     "geom:longitude":1.651608,
     "gn:population":1052,
     "iso:country":"AD",
+    "lbl:bbox":"1.631608,42.560522,1.671608,42.600522",
     "lbl:latitude":42.580522,
     "lbl:longitude":1.651608,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":42.580522,
     "mps:longitude":1.651608,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "El Tarter"
     ],
@@ -80,9 +84,6 @@
     "name:swe_x_preferred":[
         "El Tarter"
     ],
-    "name:und_x_preferred":[
-        "El Tarter"
-    ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -100,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -113,7 +114,6 @@
         "fct:id":"030c3fb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3039154,
         "gp:id":472564,
-        "qs:id":1082809,
         "qs_pg:id":1082809,
         "wd:id":"Q24413",
         "wk:page":"El Tarter"
@@ -132,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563251407,
+    "wof:lastmodified":1566581571,
     "wof:name":"el Tarter",
     "wof:parent_id":85667933,
     "wof:placetype":"locality",

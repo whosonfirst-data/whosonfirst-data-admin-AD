@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:bbox":"1.46899,42.4564,1.50899,42.4964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Aixovall"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1210038491,
-    "wof:lastmodified":1564102138,
+    "wof:lastmodified":1566581571,
     "wof:name":"Aixovall",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",
