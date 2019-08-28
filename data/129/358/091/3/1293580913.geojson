@@ -23,8 +23,12 @@
     "gn:population":155,
     "gn:timezone":"Europe/Andorra",
     "iso:country":"AD",
+    "lbl:bbox":"1.47024,42.46599,1.51024,42.50599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "La Margineda"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293580913,
-    "wof:lastmodified":1564102137,
+    "wof:lastmodified":1566581570,
     "wof:name":"La Margineda",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

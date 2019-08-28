@@ -9,14 +9,18 @@
     "geom:bbox":"1.56654,42.53176,1.56654,42.53176",
     "geom:latitude":42.53176,
     "geom:longitude":1.56654,
-    "gn:gn_country":"AD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AD",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AD",
+    "lbl:bbox":"1.54654,42.51176,1.58654,42.55176",
     "lbl:latitude":42.53176,
     "lbl:longitude":1.56654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Vila"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Casas Vila"
     ],
     "qs_pg:aaroncc":"AD",
@@ -96,7 +100,7 @@
     "qs_pg:woe_adm0":23424744,
     "qs_pg:woe_id":472605,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424744,
     "woe:name_adm0":"Andorra",
     "woe:name_adm1":"Encamp",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1125948521,
-    "wof:lastmodified":1564102142,
+    "wof:lastmodified":1566581572,
     "wof:name":"Vila",
     "wof:parent_id":85667941,
     "wof:placetype":"locality",

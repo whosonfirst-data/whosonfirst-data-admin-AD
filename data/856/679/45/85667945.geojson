@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.466032,
     "lbl:longitude":1.473523,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.466032,
     "mps:longitude":1.473523,
     "mz:hierarchy_label":1,
@@ -194,7 +195,7 @@
         "Sant Juli\u00e0 de L\u00f2ria"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0bbe  \u0b9f\u0bbf  \u0bb2\u0bcb\u0bb0\u0bbf\u0baf\u0bbe"
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0bbe \u0b9f\u0bbf \u0bb2\u0bcb\u0bb0\u0bbf\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c02\u0c24\u0c4d \u0c1c\u0c42\u0c32\u0c3f\u0c2f\u0c3e \u0c21\u0c3f \u0c32\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
@@ -213,9 +214,6 @@
     ],
     "name:und_x_colloquial":[
         "Sant Julia de Loria"
-    ],
-    "name:und_x_preferred":[
-        "Sant Juli\u00e0 de L\u00f2ria"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a \u062c\u0648\u0644\u06cc\u0627 \u062f\u0631 \u0644\u0648\u0631\u06cc\u0627"
@@ -304,9 +302,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-12-31",
+    "src:population_date":"2012-12-31",
     "statoids:area_km":"60",
     "statoids:area_mi":"23",
     "statoids:as_of_date":"2012-12-31",
@@ -332,7 +330,7 @@
         "gp:id":20070564,
         "hasc:id":"AD.JL",
         "iso:id":"AD-06",
-        "qs:id":1102992,
+        "qs_pg:id":1102992,
         "unlc:id":"AD-06",
         "wd:id":"Q24282",
         "wk:page":"Sant Juli\u00e0 de L\u00f2ria"
@@ -353,11 +351,10 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1565634328,
+    "wof:lastmodified":1566581570,
     "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":9063,
     "wof:population_rank":5,
