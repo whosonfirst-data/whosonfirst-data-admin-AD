@@ -86,6 +86,10 @@
         "wd:id":"Q3820973"
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"13f507124631a9361925bdae3897d82c",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101851349,
-    "wof:lastmodified":1566581571,
+    "wof:lastmodified":1582311928,
     "wof:name":"La Massana",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

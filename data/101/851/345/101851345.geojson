@@ -123,6 +123,9 @@
         "wd:id":"Q3885480"
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e67005b5f15e80f16dd57b7824934da9",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581571,
+    "wof:lastmodified":1582311928,
     "wof:name":"Ordino",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

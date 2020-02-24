@@ -1121,6 +1121,9 @@
     },
     "wof:country":"AD",
     "wof:country_alpha3":"AND",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"e96ae0447aefca2dd577d564fa0ea3fa",
     "wof:hierarchy":[
         {
@@ -1135,7 +1138,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1566581570,
+    "wof:lastmodified":1582311927,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

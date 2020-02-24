@@ -150,6 +150,10 @@
         "qs_pg:id":489804
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b317d97c4bc49a1df54deace3d0c854",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581571,
+    "wof:lastmodified":1582311928,
     "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",
