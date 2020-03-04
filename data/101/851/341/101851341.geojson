@@ -119,6 +119,10 @@
         "wk:page":"El Tarter"
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e655f652c6fd8a9e43dbc8bb2682a2e2",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581571,
+    "wof:lastmodified":1582311928,
     "wof:name":"el Tarter",
     "wof:parent_id":85667933,
     "wof:placetype":"locality",

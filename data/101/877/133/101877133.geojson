@@ -60,6 +60,9 @@
         "qs_pg:id":471629
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"819b67bfdb1cdeeee78cdb6789dbee19",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101877133,
-    "wof:lastmodified":1566581571,
+    "wof:lastmodified":1582311928,
     "wof:name":"Pas de la Casa",
     "wof:parent_id":85667939,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wk:page":"Les Escaldes"
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6cca48aad87e632ec882dcdbcbdaa81",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581572,
+    "wof:lastmodified":1582311928,
     "wof:name":"Escaldes-Engordany",
     "wof:parent_id":85667941,
     "wof:placetype":"locality",

@@ -589,6 +589,9 @@
         "wk:page":"Andorra la Vella"
     },
     "wof:country":"AD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eaf2346050dfa04c2c2c587b47d84325",
     "wof:hierarchy":[
         {
@@ -602,7 +605,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581571,
+    "wof:lastmodified":1582311928,
     "wof:name":"Andorra la Vella",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",
