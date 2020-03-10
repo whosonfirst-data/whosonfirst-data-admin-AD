@@ -1098,9 +1098,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Andorra",
-        "digitalenvoy:country_code":[
-            20
-        ],
+        "digitalenvoy:country_code":20,
         "fb:id":"en.andorra",
         "fifa:id":"AND",
         "fips:code":"AN",
@@ -1141,7 +1139,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1583529069,
+    "wof:lastmodified":1583797272,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
