@@ -1,0 +1,168 @@
+{
+  "id": 101774125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":529217.886866,
+    "geom:bbox":"1.727637,42.537474,1.73668,42.549828",
+    "geom:latitude":42.5436,
+    "geom:longitude":1.732143,
+    "gn:elevation":2050,
+    "gn:population":2363,
+    "iso:country":"AD",
+    "lbl:latitude":42.544136,
+    "lbl:longitude":1.732211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":42.544136,
+    "mps:longitude":1.732211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0441-\u0434\u044d-\u043b\u044f-\u041a\u0430\u0441\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:ceb_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:deu_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:deu_x_variant":[
+        "El Pas de la Casa"
+    ],
+    "name:eng_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633 \u062f\u0647 \u0644\u0627 \u06a9\u0627\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:fra_x_variant":[
+        "Pas de la Case"
+    ],
+    "name:ita_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b9\u30fb\u30c0\u30fb\u30e9\u30fb\u30ab\u30b6"
+    ],
+    "name:lit_x_preferred":[
+        "El Pas de la Kasa"
+    ],
+    "name:lmo_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:nld_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:nob_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:nor_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:oci_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:pol_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:por_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441-\u0434\u0435-\u043b\u0430-\u041a\u0430\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0441 \u0434\u0435 \u043b\u0430 \u041a\u0430\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "El Pas de la Casa"
+    ],
+    "name:sqi_x_preferred":[
+        "Pas De La Casa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0441 \u0434\u0435 \u043b\u0430 \u041a\u0430\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:tur_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441-\u0434\u0435-\u043b\u0430-\u041a\u0430\u0441\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Pas de la Casa"
+    ],
+    "qs:a0":"Andorra",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Andorra",
+    "qs:la":"Andorra",
+    "qs:la_lc":"*AD9999999",
+    "qs:level":"locality",
+    "qs:loc":"Pas de la Casa",
+    "qs:loc_alt":"Pas de la Casa",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":532,
+    "wof:belongsto":[
+        102191581,
+        85632343,
+        85667939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"030c39ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3039604,
+        "gp:id":29331511,
+        "qs_pg:id":525019,
+        "wd:id":"Q24456",
+        "wk:page":"El Pas de la Casa"
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"97251a657e7ad4f0a7809d26e1a0481d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":101774125,
+            "region_id":85667939
+        }
+    ],
+    "wof:id":101774125,
+    "wof:lastmodified":1588720258,
+    "wof:name":"Pas de la Casa",
+    "wof:parent_id":85667939,
+    "wof:placetype":"locality",
+    "wof:population":2363,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.727637,
+    42.537474,
+    1.73668,
+    42.549828
+],
+  "geometry": {"coordinates":[[[1.734727,42.549828],[1.735348,42.545343],[1.736556,42.545442],[1.73668,42.544545],[1.735472,42.544446],[1.735721,42.542652],[1.734512,42.542553],[1.734761,42.540759],[1.733553,42.54066],[1.733801,42.538866],[1.728969,42.53847],[1.729094,42.537573],[1.727886,42.537474],[1.727637,42.539268],[1.728845,42.539367],[1.728596,42.541161],[1.729804,42.54126],[1.729058,42.546642],[1.730267,42.546741],[1.730142,42.547638],[1.73135,42.547737],[1.731226,42.548634],[1.733643,42.548832],[1.733518,42.549729],[1.734727,42.549828]]],"type":"Polygon"}
+}
