@@ -9,7 +9,6 @@
     "geom:bbox":"1.41376,42.428743,1.786576,42.655765",
     "geom:latitude":42.545472,
     "geom:longitude":1.57628,
-    "gn:id":"",
     "gn:population":84000,
     "iso:country":"AD",
     "itu:country_code":[
@@ -1123,7 +1122,8 @@
     "wof:country":"AD",
     "wof:country_alpha3":"AND",
     "wof:geom_alt":[
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
     ],
     "wof:geomhash":"7d954b01b0f7ae824cc8a4ca4b4374ff",
     "wof:hierarchy":[
@@ -1139,7 +1139,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1583797272,
+    "wof:lastmodified":1603243368,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
