@@ -590,6 +590,9 @@
         "wd:id":"Q1863",
         "wk:page":"Andorra la Vella"
     },
+    "wof:coterminous":[
+        85667923
+    ],
     "wof:country":"AD",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -607,7 +610,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1607390895,
+    "wof:lastmodified":1607721819,
     "wof:name":"Andorra la Vella",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",
