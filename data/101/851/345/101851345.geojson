@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Ordino"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d3\u05d9\u05e0\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Ordino"
     ],
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582311928,
+    "wof:lastmodified":1636494393,
     "wof:name":"Ordino",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

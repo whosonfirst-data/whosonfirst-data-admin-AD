@@ -36,6 +36,9 @@
     "name:glg_x_preferred":[
         "La Massana"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05de\u05e1\u05d0\u05e0\u05d4"
+    ],
     "name:ita_x_preferred":[
         "La Massana"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101851351,
-    "wof:lastmodified":1582311928,
+    "wof:lastmodified":1636494393,
     "wof:name":"La Massana",
     "wof:parent_id":85667945,
     "wof:placetype":"locality",

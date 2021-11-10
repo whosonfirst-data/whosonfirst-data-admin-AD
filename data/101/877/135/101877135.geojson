@@ -505,6 +505,9 @@
         "La Vieja"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0688\u0648\u0631\u0627 \u0644\u0627 \u0648\u06cc\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u0646\u0688\u0648\u0631\u0627 \u0644\u0627 \u0648\u06cc\u0644\u0627"
     ],
     "name:uzb_x_preferred":[
@@ -543,8 +546,14 @@
     "name:yue_x_preferred":[
         "\u5b89\u9053\u723e\u57ce"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5b89\u9053\u5c14\u57ce"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Andorra la Vella"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8001\u5b89\u9053\u723e"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u9053\u5c14\u57ce"
@@ -610,7 +619,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1607721819,
+    "wof:lastmodified":1636494393,
     "wof:name":"Andorra la Vella",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",
