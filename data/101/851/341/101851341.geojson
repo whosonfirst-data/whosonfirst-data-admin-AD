@@ -84,6 +84,9 @@
     "name:swe_x_preferred":[
         "El Tarter"
     ],
+    "name:vol_x_preferred":[
+        "El Tarter"
+    ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582311928,
+    "wof:lastmodified":1690848448,
     "wof:name":"el Tarter",
     "wof:parent_id":85667933,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Ordino"
     ],
+    "name:ast_x_preferred":[
+        "Ordino"
+    ],
     "name:cat_x_preferred":[
         "Ordino"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:sqi_x_preferred":[
         "Ordino"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10e0\u10d3\u10d8\u10dc\u10dd"
     ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
@@ -142,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636494393,
+    "wof:lastmodified":1690848449,
     "wof:name":"Ordino",
     "wof:parent_id":85667925,
     "wof:placetype":"locality",

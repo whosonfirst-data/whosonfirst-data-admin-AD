@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0648\u0644\u0648\u0645\u0627 \u062f\u0627\u0646\u062f\u0648\u0631\u0627"
+    ],
     "name:bar_x_preferred":[
         "Santa Coloma"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u043e\u043b\u043e\u043c\u0430 \u0434'\u0410\u043d\u0434\u043e\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Santa Coloma d'Andorra"
@@ -41,6 +47,9 @@
         "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03bf\u03bb\u03cc\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Santa Coloma d'Andorra"
+    ],
+    "name:eus_x_preferred":[
         "Santa Coloma d'Andorra"
     ],
     "name:fas_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30af\u30ed\u30fc\u30de\u30fb\u30c0\u30f3\u30c9\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ucf5c\ub85c\ub9c8\uc548\ub3c4\ub77c"
     ],
     "name:lit_x_preferred":[
         "Santa Koloma"
@@ -109,8 +121,14 @@
     "name:vol_x_preferred":[
         "Santa Coloma"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10dd\u10da\u10dd\u10db\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u79d1\u6d1b\u99ac"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u9053\u5c14\u5723\u79d1\u6d1b\u9a6c"
     ],
     "qs_pg:aaroncc":"AD",
     "qs_pg:gn_country":"AD",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":1125906855,
-    "wof:lastmodified":1566581572,
+    "wof:lastmodified":1690848451,
     "wof:name":"Santa Coloma",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",

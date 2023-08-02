@@ -31,6 +31,9 @@
     "name:abk_x_preferred":[
         "\u0410\u043d\u0434\u043e\u0440\u0430"
     ],
+    "name:abk_x_variant":[
+        "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
+    ],
     "name:ace_x_preferred":[
         "Andorra"
     ],
@@ -43,14 +46,23 @@
     "name:aka_x_preferred":[
         "Andora"
     ],
+    "name:aka_x_variant":[
+        "Andorra"
+    ],
     "name:als_x_preferred":[
         "Andorra"
     ],
     "name:amh_x_preferred":[
         "\u12a0\u1295\u12f6\u122b"
     ],
+    "name:ami_x_preferred":[
+        "Andorra"
+    ],
     "name:ang_x_preferred":[
         "Andorra"
+    ],
+    "name:anp_x_preferred":[
+        "\u0905\u0902\u0921\u094b\u0930\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0646\u062f\u0648\u0631\u0627"
@@ -64,6 +76,9 @@
     "name:arg_x_preferred":[
         "Andorra"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0646\u062f\u0648\u0631\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0646\u062f\u0648\u0631\u0627"
     ],
@@ -72,6 +87,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
+    ],
+    "name:avk_x_preferred":[
+        "Andorra"
+    ],
+    "name:awa_x_preferred":[
+        "\u0905\u0902\u0921\u094b\u0930\u093e"
     ],
     "name:azb_x_preferred":[
         "\u0622\u0646\u062f\u0648\u0631\u0627"
@@ -84,6 +105,9 @@
     ],
     "name:bam_x_preferred":[
         "And\u0254r"
+    ],
+    "name:ban_x_preferred":[
+        "Andorra"
     ],
     "name:bar_x_preferred":[
         "Andorra"
@@ -184,6 +208,9 @@
     ],
     "name:cym_x_preferred":[
         "Andorra"
+    ],
+    "name:dag_x_preferred":[
+        "Andora"
     ],
     "name:dan_x_preferred":[
         "Andorra"
@@ -291,6 +318,9 @@
     "name:gag_x_preferred":[
         "Andorra"
     ],
+    "name:gcr_x_preferred":[
+        "And\u00f2r"
+    ],
     "name:ger_x_colloquial":[
         "Fuerstentum Andorra",
         "Furstentum Andorra"
@@ -318,6 +348,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf3d\ud800\udf33\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Andorra"
     ],
     "name:grn_x_preferred":[
         "Andorra"
@@ -385,6 +418,9 @@
     ],
     "name:ido_x_variant":[
         "Andorra"
+    ],
+    "name:iku_x_preferred":[
+        "\u140a\u14d0\u1451\u1550\u154b"
     ],
     "name:ile_x_preferred":[
         "Andorra"
@@ -530,6 +566,9 @@
     "name:liv_x_preferred":[
         "Andorra"
     ],
+    "name:lld_x_preferred":[
+        "Andora"
+    ],
     "name:lmo_x_preferred":[
         "Principaa d'Andora"
     ],
@@ -550,6 +589,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u5b89\u9053\u723e"
+    ],
+    "name:mad_x_preferred":[
+        "Andorra"
     ],
     "name:mai_x_preferred":[
         "\u0905\u0902\u0921\u094b\u0930\u093e"
@@ -589,6 +631,9 @@
     ],
     "name:mlt_x_preferred":[
         "Andorra"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe6\uabdf\uabd7\uabe3\uabd4\uabd4\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
@@ -643,6 +688,9 @@
     ],
     "name:nep_x_variant":[
         "\u0905\u0928\u094d\u0921\u094b\u0930\u094d\u0930\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u090f\u0923\u094d\u0921\u094b\u0930\u093e"
     ],
     "name:nld_x_preferred":[
         "Andorra"
@@ -713,6 +761,9 @@
     "name:pnb_x_preferred":[
         "\u0627\u0646\u062f\u0648\u0631\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0627\u0646\u0688\u0648\u0631\u0627"
+    ],
     "name:pnt_x_preferred":[
         "\u0391\u03bd\u03b4\u03cc\u03c1\u03c1\u03b1"
     ],
@@ -770,6 +821,12 @@
     "name:sgs_x_preferred":[
         "Anduora"
     ],
+    "name:shi_x_preferred":[
+        "An\u1e0dura"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1085\u107c\u103a\u1087\u1010\u1030\u101d\u103a\u1087\u101b\u1083\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0db1\u0dca\u0da9\u0ddd\u0dbb\u0dcf"
     ],
@@ -785,8 +842,14 @@
     "name:sme_x_preferred":[
         "Andorra"
     ],
+    "name:smn_x_preferred":[
+        "Andorra"
+    ],
     "name:smo_x_preferred":[
         "Andora"
+    ],
+    "name:sms_x_preferred":[
+        "Andorr"
     ],
     "name:sna_x_preferred":[
         "Andorra"
@@ -846,6 +909,9 @@
     "name:szl_x_preferred":[
         "Andora"
     ],
+    "name:szy_x_preferred":[
+        "Andorra"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba8\u0bcd\u0ba4\u0bcb\u0bb0\u0bbe"
     ],
@@ -855,6 +921,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
+    ],
+    "name:tay_x_preferred":[
+        "Andorra"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c02\u0c21\u0c4a\u0c30\u0c4d\u0c30\u0c3e"
@@ -880,11 +949,20 @@
     "name:tir_x_preferred":[
         "\u12a0\u1295\u12f6\u122b"
     ],
+    "name:tok_x_preferred":[
+        "ma Antola"
+    ],
     "name:ton_x_preferred":[
         "\u02bbEnitola"
     ],
+    "name:ton_x_variant":[
+        "\u02bbAnitola"
+    ],
     "name:tpi_x_preferred":[
         "Andora"
+    ],
+    "name:trv_x_preferred":[
+        "Andorra"
     ],
     "name:tso_x_preferred":[
         "Andorra"
@@ -944,6 +1022,9 @@
     ],
     "name:war_x_preferred":[
         "Andorra"
+    ],
+    "name:wln_x_preferred":[
+        "And\u00f4re"
     ],
     "name:wol_x_preferred":[
         "Andoor"
@@ -1204,7 +1285,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1617827338,
+    "wof:lastmodified":1690848446,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
