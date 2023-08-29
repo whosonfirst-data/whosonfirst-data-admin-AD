@@ -77,12 +77,18 @@
     "name:sqi_x_preferred":[
         "La Massana"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041c\u0430\u0441\u0441\u0430\u043d\u0430"
+    ],
     "name:und_x_colloquial":[
         "La Macana",
         "Massana"
     ],
     "name:und_x_variant":[
         "La Ma\u00e7ana"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d0-\u10db\u10d0\u10e1\u10d0\u10dc\u10d0"
     ],
     "qs:a0":"Andorra",
     "qs:a1":"*",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101877145,
-    "wof:lastmodified":1636494393,
+    "wof:lastmodified":1690848450,
     "wof:name":"La Massana",
     "wof:parent_id":85667923,
     "wof:placetype":"locality",

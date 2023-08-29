@@ -57,7 +57,8 @@
         "La Massana"
     ],
     "name:cat_x_variant":[
-        "Parr\u00f2quia de la Massana"
+        "Parr\u00f2quia de la Massana",
+        "la Massana"
     ],
     "name:ceb_x_preferred":[
         "La Massana"
@@ -93,6 +94,9 @@
         "La Massana"
     ],
     "name:fra_x_preferred":[
+        "La Massana"
+    ],
+    "name:frr_x_preferred":[
         "La Massana"
     ],
     "name:glg_x_preferred":[
@@ -183,6 +187,9 @@
         "\u0dbd\u0dcf \u0db8\u0dc3\u0dca\u0dc3\u0db1\u0dcf"
     ],
     "name:slk_x_preferred":[
+        "La Massana"
+    ],
+    "name:smn_x_preferred":[
         "La Massana"
     ],
     "name:spa_x_preferred":[
@@ -357,7 +364,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1636494393,
+    "wof:lastmodified":1690848448,
     "wof:name":"La Massana",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
