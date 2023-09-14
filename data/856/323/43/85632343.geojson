@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050903,
-    "geom:area_square_m":463722940.917967,
+    "geom:area_square_m":463722956.555654,
     "geom:bbox":"1.41376,42.428743,1.786576,42.655765",
     "geom:latitude":42.545472,
     "geom:longitude":1.57628,
@@ -14,6 +14,9 @@
     "iso:country":"AD",
     "itu:country_code":[
         "376"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AD"
@@ -1215,7 +1218,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"376",
     "statoids:ds":"AND",
     "statoids:fifa":"AND",
@@ -1271,7 +1275,7 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"7d954b01b0f7ae824cc8a4ca4b4374ff",
+    "wof:geomhash":"8aba84e2a626f25a51c4875b57874a6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1285,12 +1289,12 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1690848446,
+    "wof:lastmodified":1694639494,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":79218,
-    "wof:population_rank":8,
+    "wof:population":77142,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ad",
     "wof:shortcode":"AD",
     "wof:superseded_by":[],
