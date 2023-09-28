@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00842,
-    "geom:area_square_m":76801496.134797,
+    "geom:area_square_m":76801496.134796,
     "geom:bbox":"1.40759322065,42.4286774707,1.57494232972,42.5180350337",
     "geom:latitude":42.467892,
     "geom:longitude":1.488736,
@@ -329,14 +329,16 @@
         "gn:id":3039162,
         "gp:id":20070564,
         "hasc:id":"AD.JL",
+        "iso:code":"AD-06",
         "iso:id":"AD-06",
         "qs_pg:id":1102992,
         "unlc:id":"AD-06",
         "wd:id":"Q24282",
         "wk:page":"Sant Juli\u00e0 de L\u00f2ria"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AD",
-    "wof:geomhash":"99019ac9fa792443ccf664986e031de1",
+    "wof:geomhash":"0be4dac9e64df03dbee0c349a4c8ca2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1566581570,
+    "wof:lastmodified":1695884323,
     "wof:name":"Sant Juli\u00e0 de L\u00f2ria",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

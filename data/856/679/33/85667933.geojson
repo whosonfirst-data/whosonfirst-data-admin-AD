@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008136,
-    "geom:area_square_m":74076475.110681,
+    "geom:area_square_m":74076191.482611,
     "geom:bbox":"1.555607,42.53989,1.765091,42.621921",
     "geom:latitude":42.584522,
     "geom:longitude":1.658058,
@@ -347,14 +347,16 @@
         "gn:id":3041203,
         "gp:id":20070557,
         "hasc:id":"AD.CA",
+        "iso:code":"AD-02",
         "iso:id":"AD-02",
         "qs_pg:id":892927,
         "unlc:id":"AD-02",
         "wd:id":"Q24260",
         "wk:page":"Canillo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AD",
-    "wof:geomhash":"83c9654b4b247c0b3fdd429c49e0a55b",
+    "wof:geomhash":"6ed08f08cd142f009b42265fb8d13c21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +371,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1690848446,
+    "wof:lastmodified":1695884323,
     "wof:name":"Canillo",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
