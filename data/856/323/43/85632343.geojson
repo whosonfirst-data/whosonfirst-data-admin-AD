@@ -1257,6 +1257,7 @@
         "hasc:id":"AD",
         "icao:code":"C3",
         "ioc:id":"AND",
+        "iso:code":"AD",
         "itu:id":"AND",
         "loc:id":"n80113598",
         "m49:code":"020",
@@ -1270,6 +1271,7 @@
         "wd:id":"Q228",
         "wk:page":"Andorra"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AD",
     "wof:country_alpha3":"AND",
     "wof:geom_alt":[
@@ -1289,7 +1291,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1694639494,
+    "wof:lastmodified":1695881148,
     "wof:name":"Andorra",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
