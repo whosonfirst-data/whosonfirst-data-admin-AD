@@ -238,16 +238,18 @@
         "gn:id":3041566,
         "gp:id":20070553,
         "hasc:id":"AD.AN",
+        "iso:code":"AD-07",
         "iso:id":"AD-07",
         "qs_pg:id":1115276,
         "unlc:id":"AD-07",
         "wd:id":"Q2522163"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         101877135
     ],
     "wof:country":"AD",
-    "wof:geomhash":"fb0aaaced840a6006f6da18fe723366e",
+    "wof:geomhash":"8fc4ed1556b6bde9719ed0c5a3827c05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -262,7 +264,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1690848448,
+    "wof:lastmodified":1695884762,
     "wof:name":"Andorra la Vella",
     "wof:parent_id":85632343,
     "wof:placetype":"region",

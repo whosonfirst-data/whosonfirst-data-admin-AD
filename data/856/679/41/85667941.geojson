@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007252,
-    "geom:area_square_m":66118413.785504,
+    "geom:area_square_m":66118323.572242,
     "geom:bbox":"1.499089,42.453075,1.656984,42.538857",
     "geom:latitude":42.495963,
     "geom:longitude":1.588761,
@@ -344,14 +344,16 @@
         "gn:id":3338529,
         "gp:id":20070554,
         "hasc:id":"AD.EE",
+        "iso:code":"AD-08",
         "iso:id":"AD-08",
         "qs_pg:id":466367,
         "unlc:id":"AD-08",
         "wd:id":"Q24286",
         "wk:page":"Escaldes-Engordany"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AD",
-    "wof:geomhash":"49c1e58df1812f4d325d490ed35c66f8",
+    "wof:geomhash":"8ca606cf14e8b8ae2a248a684d5ccda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "cat"
     ],
-    "wof:lastmodified":1690848447,
+    "wof:lastmodified":1695884762,
     "wof:name":"Escaldes-Engordany",
     "wof:parent_id":85632343,
     "wof:placetype":"region",
